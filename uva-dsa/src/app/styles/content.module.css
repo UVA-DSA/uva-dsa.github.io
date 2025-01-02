@@ -1,0 +1,42 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .heroImageWrapper {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    padding: 10px; /* Add padding around the image */
+    box-sizing: border-box; /* Ensure padding doesn't affect the image size */
+    background-color: white; /* Optional: Add a background color */
+    border-radius: 10px; /* Rounds the corners of the wrapper */
+    overflow: hidden; /* Ensures the image respects the rounded corners */
+  }
+  
+  .heroImage {
+    object-fit: contain;
+    border-radius: 10px; /* Ensures the image itself has rounded corners */
+  }
+  .heroText {
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .heroText h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .heroText p {
+    font-size: 1.0rem;
+    color: #6e6e6e;
+    font-style: italic;
+  }
+  
