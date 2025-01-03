@@ -1,6 +1,6 @@
 import styles from '../styles/footer.module.css';
 import Image from 'next/image';
-import uvaLogo from '../../../public/images/uva-dsa-logo.png';
+import uvaLogo from '../../public/images/uva-dsa-logo.png';
 import { FaGithub, FaEnvelope } from 'react-icons/fa'; // Import GitHub icon
 
 const Footer: React.FC = () => {

@@ -23,7 +23,7 @@ body {
 }
 
 .container {
-  max-width: 900px; /* Adjust width as needed */
+  max-width: 1000px; /* Adjust width as needed */
   margin: 0 auto;
   padding: 0 20px; /* Add some padding on smaller screens */
 }

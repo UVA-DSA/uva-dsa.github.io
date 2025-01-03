@@ -1,0 +1,107 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .heroImageWrapper {
+    position: relative;
+    width: 100%;
+    height: 40vh;
+    box-sizing: border-box; /* Ensure padding doesn't affect the image size */
+    background-color: white; /* Optional: Add a background color */
+    overflow: hidden; /* Ensures the image respects the rounded corners */
+  }
+  
+  .heroImage {
+    object-fit: contain;
+  }
+  
+  .heroText {
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .heroText h1 {
+    font-size: 2.5rem;
+  }
+  
+  .heroTextWelcome {
+    font-size: 1.0rem;
+    color: #6e6e6e;
+    font-style: italic;
+  }
+  
+
+  /* News Section */
+.newsSection {
+  
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.newsTitle {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #757575;
+}
+
+/* Stack News Items Vertically */
+.newsStack {
+  display: flex;
+  flex-direction: column; /* Vertically stacked items */
+  gap: 15px;
+}
+
+/* News Card */
+.newsCard {
+  background-color: #ffffff;
+  border: 2px solid #fdf4ec;
+  border-radius: 10px;
+  max-width: 1100px;
+  min-width: 700px;
+  padding: 10px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.newsCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.newsItemTitle {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+  color: #d65d2d;
+}
+
+.newsItemDate {
+  font-size: 0.9rem;
+  color: #999;
+  margin-bottom: 5px;
+}
+
+.newsItemDescription {
+  font-size: 1rem;
+  color: #747474;
+  line-height: 1.0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.separator {
+  height: 2px;
+  background-color: #c9c9c9;
+  margin: 10px auto; /* Centers the separator horizontally */
+  border-radius: 2px;
+  width: 100%; /* Controls the separator width */
+  opacity: 0.5;
+}

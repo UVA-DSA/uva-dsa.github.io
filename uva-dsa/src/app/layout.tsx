@@ -1,33 +1,26 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+import '../styles/globals.css';
+import Header from '../components/header';
+import Footer from '../components/footer';
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-export const metadata: Metadata = {
-  title: "UVA DSA",
-  description: "Official website of the Dependable Systems and Analytics group at the University of Virginia",
+export const metadata = {
+  title: 'UVA-DSA',
+  description: 'Dependable Systems and Analytics Research Group',
 };
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body>
+      <div className="container">
+
+        <Header />
+        <main>{children}</main>
+        <Footer />
+      </div>
       </body>
     </html>
   );
