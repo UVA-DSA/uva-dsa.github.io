@@ -7,8 +7,9 @@
   }
   
   .logo {
-    font-size: 1.3rem;
-    color: #7c7c7c;
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #232d4b;
     font-family:"Open Sans", "Helvetica Neue", Helvetica;
   }
   
@@ -16,12 +17,12 @@
     display: flex;
     list-style: none;
     gap: 15px;
-    font-size: 0.9rem;
+    font-size: 1.0rem;
   }
   
   .navLinks a {
     text-decoration: none;
-    color: #686868;
+    color: #232d4b;
   }
   
   .navLinks a:hover {

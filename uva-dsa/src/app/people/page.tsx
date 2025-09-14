@@ -55,6 +55,24 @@ const undergraduateStudents = [
   },
 ];
 
+const groupGetTogethers = [
+  {
+    event: 'Group Lunch 2024',
+    date: '02/15/2024',
+    image: '/images/people/lunch_2024.jpg'
+  },
+  {
+    event: 'Group Lunch 2023',
+    date: '11/10/2023',
+    image: '/images/people/lunch_2023.jpg'
+  },
+  {
+    event: 'Tech Girls 2018',
+    date: '10/20/2018',
+    image: '/images/people/TechGirls_2018_1.jpg'
+  }
+]
+
 export default function People() {
   return (
     <section className={styles.peopleSection}>
@@ -62,6 +80,26 @@ export default function People() {
       <p className={styles.subtitle}>
         Meet the researchers and contributors driving UVA-DSA forward.
       </p>
+
+      <div className={styles.separator} />
+      <div className={styles.section}>
+        <div className={styles.list}>
+          {groupGetTogethers.map((event, index) => (
+            <div key={index} >
+              <div  className={styles.socialImageContainer}>
+                <Image
+                  src={event.image}
+                  alt={event.event}
+                  fill
+                  className={styles.image}
+                  objectFit="cover"
+                />
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+      <div className={styles.separator} />
 
       {/* Principal Investigators Section */}
       <div className={styles.section}>

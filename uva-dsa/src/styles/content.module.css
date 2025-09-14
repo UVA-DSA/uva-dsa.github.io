@@ -22,7 +22,6 @@
   
   .heroText {
     text-align: center;
-    margin-top: 10px;
     margin-right: 30px;
     margin-left: 30px;
     padding-bottom: 30px;
@@ -34,7 +33,7 @@
   
   .heroTextWelcome {
     font-size: 1.1rem;
-    margin-top: 15px;
+    margin-top: 5px;
     color: #5e5e5e;
     font-style: italic;
     font-family:"Open Sans", "Helvetica Neue", Helvetica;

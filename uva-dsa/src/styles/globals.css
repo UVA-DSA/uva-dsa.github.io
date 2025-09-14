@@ -14,6 +14,10 @@
   }
 }
 
+/* src/app/globals.css or styles/globals.css */
+html {
+  scroll-behavior: smooth;
+}
 
 
 /* globals.css */
@@ -107,3 +111,4 @@ ul {
   --admonition-warning-rgb-value: 253, 186, 116;
   --admonition-danger-rgb-value: 220, 38, 38;
 }
+

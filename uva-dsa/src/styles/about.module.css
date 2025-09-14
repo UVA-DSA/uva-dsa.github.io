@@ -7,9 +7,11 @@
   }
   
   .aboutTitle {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-    color: #5a5a5a;
+  font-size: 22px;      /* set what you want */
+  line-height: 1.25;
+  font-weight: 700;     /* optional */
+  margin: 0 0 6px;      /* optional */
+  color: #646464;
     text-align: left;
   }
   
@@ -26,9 +28,11 @@
   }
   
   .sectionTitle {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-    color: #5a5a5a;
+  font-size: 22px;      /* set what you want */
+  line-height: 1.25;
+  font-weight: 700;     /* optional */
+  margin: 0 0 6px;      /* optional */
+  color: #646464;
   }
   
   .sectionText {

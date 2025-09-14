@@ -3,7 +3,7 @@ import styles from '../../styles/about.module.css';
 export default function About() {
   return (
     <section className={styles.aboutSection}>
-      <h1 className={styles.aboutTitle}>About Us</h1>
+      <h1 className={styles.sectionTitle}>About Us</h1>
       <p className={styles.intro}>
       Our research focuses on design and validation of Resilient Cyber-Physical Systems (CPS) with applications to medical devices, surgical robots, and autonomous systems. We take a multidisciplinary approach to safety and security assurance in CPS by leveraging techniques from dependable computing and fault-tolerance, machine learning, and real-time embedded systems. We develop data-driven methods, realistic testbeds, and simulation platforms for analysis of safety and security incidents, system resilience assessment against accidental and malicious faults, and runtime monitoring for detection and mitigation of adverse events.
       </p>
