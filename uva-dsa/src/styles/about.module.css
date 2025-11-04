@@ -1,0 +1,63 @@
+.aboutSection {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  .aboutTitle {
+  font-size: 22px;      /* set what you want */
+  line-height: 1.25;
+  font-weight: 700;     /* optional */
+  margin: 0 0 6px;      /* optional */
+  color: #646464;
+    text-align: left;
+  }
+  
+  .intro {
+    font-size: 1.0rem;
+    color: #555;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  
+  .section {
+    margin-bottom: 40px;
+    margin-top: 40px;
+  }
+  
+  .sectionTitle {
+  font-size: 22px;      /* set what you want */
+  line-height: 1.25;
+  font-weight: 700;     /* optional */
+  margin: 0 0 6px;      /* optional */
+  color: #646464;
+  }
+  
+  .sectionText {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .researchTopics {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  
+  .researchTopics li {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .link {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  

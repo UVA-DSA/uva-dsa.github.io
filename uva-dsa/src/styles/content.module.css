@@ -1,0 +1,52 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  .heroImageWrapper {
+    position: relative;
+    margin-top: 30px;
+    width: 100%;
+    height: 45vh;
+    box-sizing: border-box; /* Ensure padding doesn't affect the image size */
+    background-color: white; /* Optional: Add a background color */
+    overflow: hidden; /* Ensures the image respects the rounded corners */
+  }
+  
+  .heroImage {
+    object-fit: contain;
+  }
+  
+  .heroText {
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .heroText h1 {
+    font-size: 2.5rem;
+  }
+  
+  .heroTextWelcome {
+    font-size: 1.1rem;
+    margin-top: 5px;
+    color: #5e5e5e;
+    font-style: italic;
+    font-family:"Open Sans", "Helvetica Neue", Helvetica;
+  }
+  
+
+
+
+.separator {
+  height: 2px;
+  background-color: #c9c9c9;
+  margin: 10px auto; /* Centers the separator horizontally */
+  border-radius: 2px;
+  width: 100%; /* Controls the separator width */
+  opacity: 0.5;
+}

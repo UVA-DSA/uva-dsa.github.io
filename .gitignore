@@ -1,1 +1,4 @@
 uva_dsa/node_modules
+
+*.psd
+**/.DS_Store
