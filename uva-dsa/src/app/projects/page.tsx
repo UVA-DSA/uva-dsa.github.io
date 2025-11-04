@@ -84,9 +84,8 @@ const projects: Project[] = [
         </div>
       ),
     resources: [
-      { label: "Article", link: "https://homa-alem.github.io/papers/DSN_2016.pdf" },
-      { label: "GitHub Link", link: "https://homa-alem.github.io/research.html#robotic-surgery" },
-      { label: "Datasets", link: "https://homa-alem.github.io/papers/DSN_2016.pdf" },
+      { label: "Article", link: "https://ieeexplore.ieee.org/document/10562157" },
+      { label: "GitHub Link", link: "https://github.com/UVA-DSA/EMS-Pipeline/tree/demo" },
     ],
   },
   {
