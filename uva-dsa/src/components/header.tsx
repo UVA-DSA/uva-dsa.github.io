@@ -3,7 +3,7 @@ import styles from '../styles/header.module.css';
 const Header: React.FC = () => {
   return (
     <header className={styles.header}>
-      <div className={styles.logo}>UVA DSA</div>
+      <div className={styles.logo}></div>
       <nav>
         <ul className={styles.navLinks}>
           <li><a href="/">Home</a></li>
