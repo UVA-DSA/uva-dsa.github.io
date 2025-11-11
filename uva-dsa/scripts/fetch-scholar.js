@@ -31,6 +31,9 @@ async function fetchScholarHTML(userId) {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119 Safari/537.36",
       Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       "Accept-Language": "en-US,en;q=0.9",
+      // Bypass Google consent interstitial which can appear on CI runners
+      // and returns a consent page instead of Scholar HTML.
+      Cookie: "CONSENT=YES+",
     },
   });
   if (!res.ok) {
@@ -101,6 +104,23 @@ async function main() {
   } catch (err) {
     console.error("[fetch-scholar] Error:", err.message || err);
     result.error = String(err && err.message ? err.message : err);
+  }
+
+  // If parsing yielded no items, preserve any existing publications.json
+  // to avoid wiping the site list when Scholar blocks CI.
+  if ((!result.items || result.items.length === 0) && fs.existsSync(outputPath)) {
+    try {
+      const prev = JSON.parse(fs.readFileSync(outputPath, "utf8"));
+      if (prev && Array.isArray(prev.items) && prev.items.length > 0) {
+        console.warn(
+          "[fetch-scholar] No items parsed; keeping previous publications.json."
+        );
+        // Keep previous items, but update metadata so the page doesn't look stale.
+        result.items = prev.items;
+      }
+    } catch (_) {
+      // ignore and proceed to write empty
+    }
   }
 
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
