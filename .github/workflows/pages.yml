@@ -17,9 +17,17 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Prefer repository secret; fall back to alternative secret name or repo variables if set
+      SCHOLAR_USER_ID: ${{ secrets.SCHOLAR_USER_ID || secrets.NEXT_PUBLIC_SCHOLAR_USER_ID || vars.SCHOLAR_USER_ID || vars.NEXT_PUBLIC_SCHOLAR_USER_ID }}
+      NEXT_PUBLIC_SCHOLAR_USER_ID: ${{ secrets.NEXT_PUBLIC_SCHOLAR_USER_ID || secrets.SCHOLAR_USER_ID || vars.NEXT_PUBLIC_SCHOLAR_USER_ID || vars.SCHOLAR_USER_ID }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Debug Scholar env (no value printed)
+        run: |
+          if [ -z "${SCHOLAR_USER_ID}" ]; then echo "SCHOLAR_USER_ID is EMPTY"; else echo "SCHOLAR_USER_ID is set"; fi
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -51,4 +59,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
