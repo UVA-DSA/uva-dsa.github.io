@@ -1,6 +1,6 @@
 // styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
-import heroImage from '../../public/images/uva-main-edited-v2-rounded.png';
+import heroImage from '../../public/images/uva-main-dsa.png';
 
 import News from './news';
 

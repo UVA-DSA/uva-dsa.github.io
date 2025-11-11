@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
     return (
         <footer className="footer">
             <div className="footerLeft">
-                <Image src={uvaLogo} alt="UVA Logo" width={80} height={80} />
+                <Image src={uvaLogo} alt="UVA Logo" width={100} height={80} />
             </div>
             <div className="footerCenter">
                 <p>

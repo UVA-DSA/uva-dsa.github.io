@@ -3,7 +3,7 @@
 const Header: React.FC = () => {
   return (
     <header className="header">
-      <div className="logo">UVA DSA</div>
+      <div className="logo"></div>
       <nav>
         <ul className="navLinks">
           <li><a href="/">Home</a></li>

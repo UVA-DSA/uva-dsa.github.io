@@ -40,9 +40,8 @@
 
   /* News Section */
 .newsSection {
-  
   margin: 0 auto;
-  padding: 20px;
+  padding: 10px;
   text-align: left;
 }
 
@@ -66,7 +65,7 @@
   border: 2px solid #fdf4ec;
   border-radius: 10px;
   max-width: 1100px;
-  min-width: 700px;
+  min-width: 1000px;
   padding: 10px;
   text-align: left;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
