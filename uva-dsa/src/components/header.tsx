@@ -16,6 +16,7 @@ const Header: FC = () => {
           <li><Link href="/about">About</Link></li>
           <li><Link href="/people">People</Link></li>
           <li><Link href="/projects">Projects</Link></li>
+          <li><Link href="/publications">Publications</Link></li>
           <li><Link href="/resources">Resources</Link></li>
         </ul>
       </nav>
