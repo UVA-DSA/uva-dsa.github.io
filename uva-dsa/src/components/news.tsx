@@ -1,4 +1,4 @@
-import styles from '../styles/news.module.css';
+// styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
 import heroImage from '../../public/images/uva-main-edited-v2-rounded.png';
 
@@ -32,16 +32,16 @@ const News: React.FC = () => {
   
     return (
 
-    <section className={styles.hero}>
+    <section className="hero">
               {/* News Section */}
-      <div className={styles.newsSection}>
-      <h2 className={styles.newsTitle}>Latest News</h2>
-      <div className={styles.newsStack}>
+      <div className="newsSection">
+      <h2 className="newsTitle">Latest News</h2>
+      <div className="newsStack">
         {sortedNewsItems.map((news, index) => (
-          <div key={index} className={styles.newsCard}>
-            <h3 className={styles.newsItemTitle}>{news.title}</h3>
-            <p className={styles.newsItemDate}>{new Date(news.date).toLocaleDateString()}</p>
-            <p className={styles.newsItemDescription}>{news.description}</p>
+          <div key={index} className="newsCard">
+            <h3 className="newsItemTitle">{news.title}</h3>
+            <p className="newsItemDate">{new Date(news.date).toLocaleDateString()}</p>
+            <p className="newsItemDescription">{news.description}</p>
           </div>
         ))}
       </div>

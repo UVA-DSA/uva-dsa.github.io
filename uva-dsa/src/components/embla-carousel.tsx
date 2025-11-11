@@ -10,7 +10,7 @@ import {
 } from '../components/emblacarouselarrows'
 import useEmblaCarousel from 'embla-carousel-react'
 
-import '../styles/embla.css'
+// embla styles moved to global stylesheet (globals.css)
 
 
 type ProjectType = {

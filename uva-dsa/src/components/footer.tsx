@@ -1,30 +1,30 @@
-import styles from '../styles/footer.module.css';
+// styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
 import uvaLogo from '../../public/images/uva-dsa-logo.png';
 import { FaGithub, FaEnvelope } from 'react-icons/fa'; // Import GitHub icon
 
 const Footer: React.FC = () => {
     return (
-        <footer className={styles.footer}>
-            <div className={styles.footerLeft}>
+        <footer className="footer">
+            <div className="footerLeft">
                 <Image src={uvaLogo} alt="UVA Logo" width={80} height={80} />
             </div>
-            <div className={styles.footerCenter}>
+            <div className="footerCenter">
                 <p>
                     Dependable Systems and Analytics Group <br />
                     University of Virginia <br />
                     Olsson Hall, Charlottesville, VA 22903, USA
                 </p>
             </div>
-            <div className={styles.footerRight}>
+            <div className="footerRight">
                 <a
                     href="https://github.com/uva-dsa"
                     target="_blank"
                     rel="noreferrer"
                     aria-label="GitHub"
-                    className={styles.githubLink}
+                    className="githubLink"
                 >
-                    <FaGithub size={20} className={styles.githubIcon} />
+                    <FaGithub size={20} className="githubIcon" />
                     <span>UVA-DSA</span>
                 </a>
 
@@ -33,9 +33,9 @@ const Footer: React.FC = () => {
                     target="_blank"
                     rel="noreferrer"
                     aria-label="Email"
-                    className={styles.iconLink}
+                    className="iconLink"
                 >
-                    <FaEnvelope size={20} className={styles.icon} />
+                    <FaEnvelope size={20} className="icon" />
                     <span>ha4d@virginia.edu</span>
                 </a>
             </div>

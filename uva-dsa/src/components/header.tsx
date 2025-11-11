@@ -1,11 +1,11 @@
-import styles from '../styles/header.module.css';
+// styles moved to global stylesheet (globals.css)
 
 const Header: React.FC = () => {
   return (
-    <header className={styles.header}>
-      <div className={styles.logo}>UVA DSA</div>
+    <header className="header">
+      <div className="logo">UVA DSA</div>
       <nav>
-        <ul className={styles.navLinks}>
+        <ul className="navLinks">
           <li><a href="/">Home</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/people">People</a></li>

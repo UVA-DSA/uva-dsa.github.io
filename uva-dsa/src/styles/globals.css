@@ -23,7 +23,7 @@ html {
 /* globals.css */
 body {
   margin: 0;
-  font-family:"Open Sans", "Helvetica Neue", Helvetica;
+  font-family:"Open Sans", "Helvetica Neue","Helvetica";
 }
 
 .container {
@@ -112,3 +112,656 @@ ul {
   --admonition-danger-rgb-value: 220, 38, 38;
 }
 
+/* ------------------------------
+   Global Styles Consolidation
+   All component/page styles centralized here.
+   Sections are clearly separated for easy editing.
+   Font-related declarations appear together where applicable.
+   ------------------------------ */
+
+/* ------------------------------
+   Base / Layout
+   ------------------------------ */
+.container {
+  max-width: 1000px; /* Adjust width as needed */
+  margin: 0 auto;
+  padding: 0 20px; /* Add some padding on smaller screens */
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* ------------------------------
+   Shared Utilities
+   ------------------------------ */
+/* Link styling shared across pages */
+.link {
+  color: #0070f3;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Generic hero container (used by home and news) */
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+/* Default separator used on home/news */
+.separator {
+  height: 2px;
+  background-color: #c9c9c9;
+  margin: 10px auto; /* Centers the separator horizontally */
+  border-radius: 2px;
+  width: 100%; /* Controls the separator width */
+  opacity: 0.5;
+}
+
+/* ------------------------------
+   Header
+   ------------------------------ */
+/* Scope header styles to the top-level header only */
+.container > header.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f5f5f5;
+  padding: 10px 20px;
+}
+.container > header.header .logo {
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: #232d4b;
+  font-family:"Open Sans", "Helvetica Neue", Helvetica;
+}
+.container > header.header .navLinks {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  font-size: 1.0rem;
+}
+.container > header.header .navLinks a {
+  text-decoration: none;
+  color: #232d4b;
+}
+.container > header.header .navLinks a:hover {
+  color: #0070f3;
+}
+
+/* ------------------------------
+   Footer
+   ------------------------------ */
+.container > footer.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f5f5f5;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+.container > footer.footer .footerLeft img {
+  max-width: 120px;
+}
+.container > footer.footer .footerCenter {
+  flex-grow: 1;
+  text-align: center;
+  color: #6e6e6e;
+}
+.container > footer.footer .footerRight a {
+  text-decoration: none;
+  color: #0070f3;
+  display: flex;
+  text-align: center;
+  gap: 5px;
+}
+.container > footer.footer .footerRight a:hover {
+  color: #4a99f4;
+}
+.container > footer.footer .githubIcon {
+  transition: color 0.3s ease;
+}
+
+/* ------------------------------
+   Home (Content component)
+   ------------------------------ */
+section.hero .heroImageWrapper {
+  position: relative;
+  margin-top: 30px;
+  width: 100%;
+  height: 45vh;
+  box-sizing: border-box; /* Ensure padding doesn't affect the image size */
+  background-color: white; /* Optional: Add a background color */
+  overflow: hidden; /* Ensures the image respects the rounded corners */
+}
+section.hero .heroImage {
+  object-fit: contain;
+}
+section.hero .heroText {
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 30px;
+  padding-bottom: 30px;
+}
+section.hero .heroText h1 {
+  font-size: 2.5rem;
+}
+section.hero .heroTextWelcome {
+  font-size: 1.1rem;
+  margin-top: 5px;
+  color: #5e5e5e;
+  font-style: italic;
+  font-family:"Open Sans", "Helvetica Neue", Helvetica;
+}
+
+/* ------------------------------
+   News
+   ------------------------------ */
+.newsSection {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+.newsTitle {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: #757575;
+}
+.newsStack {
+  display: flex;
+  flex-direction: column; /* Vertically stacked items */
+  gap: 15px;
+}
+.newsCard {
+  background-color: #ffffff;
+  border: 2px solid #fdf4ec;
+  border-radius: 10px;
+  max-width: 1100px;
+  min-width: 700px;
+  padding: 10px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.newsCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.newsItemTitle {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+  color: #d65d2d;
+}
+.newsItemDate {
+  font-size: 0.9rem;
+  color: #999;
+  margin-bottom: 5px;
+}
+.newsItemDescription {
+  font-size: 1rem;
+  color: #747474;
+  line-height: 1.0;
+  font-family:"Open Sans", "Helvetica Neue", Helvetica;
+}
+
+/* ------------------------------
+   About (also used by Resources)
+   ------------------------------ */
+.aboutSection {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: left;
+  line-height: 1.6;
+}
+.aboutSection .aboutTitle {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+  text-align: left;
+}
+.aboutSection .intro {
+  font-size: 1.0rem;
+  color: #555;
+  margin-bottom: 30px;
+  text-align: left;
+}
+.aboutSection .section {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.aboutSection .sectionTitle {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+}
+.aboutSection .sectionText {
+  font-size: 1rem;
+  color: #555;
+}
+.aboutSection .researchTopics {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.aboutSection .researchTopics li {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+/* ------------------------------
+   Resources (extras)
+   ------------------------------ */
+.sectionSubtitle {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #5a5a5a;
+}
+.banner {
+  background-color: #fae0e0; /* Light cyan background */
+  border: 1px solid #fa818b; /* Slightly darker border */
+  border-radius: 8px;
+  padding: 15px 20px;
+  margin: 20px 0;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #490808; /* Darker text color for contrast */
+}
+
+/* ------------------------------
+   People
+   ------------------------------ */
+.peopleSection {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+.peopleSection .title {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+}
+.peopleSection .subtitle {
+  font-size: 1.0rem;
+  color: #6e6e6e;
+  margin-bottom: 10px;
+}
+.peopleSection .section {
+  margin-bottom: 40px;
+}
+.peopleSection .sectionTitle {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+}
+.peopleSection .list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.peopleSection .card {
+  background-color: #fff;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.peopleSection .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+.peopleSection .imageContainer {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  margin: 15px auto;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.peopleSection .image {
+  object-fit: cover;
+}
+.peopleSection .name {
+  font-size: 1.2rem;
+  color: #686868;
+}
+.peopleSection .role {
+  font-size: 0.9rem;
+  color: #5c5c5c;
+}
+.peopleSection .separator {
+  height: 2px;
+  background-color: #c9c9c9;
+  margin: 40px auto; /* Centers the separator horizontally */
+  border-radius: 2px;
+  width: 80%; /* Controls the separator width */
+  opacity: 0.5;
+}
+.peopleSection .socialImageContainer {
+  position: relative;
+  width: 240px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+/* ------------------------------
+   Projects
+   ------------------------------ */
+.projectsSection {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+/* Specific H1 title rules for projects */
+.projectsSection h1.title {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+}
+.projectsSection .subtitle {
+  font-size: 1.0rem;
+  color: #6e6e6e;
+  margin-bottom: 30px;
+}
+/* Top bullet list */
+.projectsSection .navList {
+  margin: 14px 0 8px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #363636;
+}
+.projectsSection .navItem {
+  margin: 6px 0;
+}
+.projectsSection .navLink {
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(151, 151, 151, 0.25);
+}
+.projectsSection .navLink:hover {
+  border-bottom-style: solid;
+}
+/* Horizontal divider */
+.projectsSection .hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, rgba(0,0,0,0.06), rgba(0,0,0,0.16), rgba(0,0,0,0.06));
+  margin: 16px 0 24px;
+}
+/* Stack of projects */
+.projectsSection .stack {
+  display: block; /* vertical flow */
+}
+.projectsSection .project {
+  scroll-margin-top: 80px; /* helpful if you later add a sticky header */
+}
+.projectsSection .header {
+  margin-bottom: 10px;
+}
+.projectsSection .projectTitle {
+  font-size: clamp(20px, 2.4vw, 28px);
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
+.projectsSection .body {
+  display: grid;
+  gap: 12px;
+}
+.projectsSection .imageWrap {
+  max-width: 600px;        /* <- banner width cap */
+  width: 100%;
+  margin-left: auto;       /* <- centers horizontally */
+  margin-right: auto;      /* <- centers horizontally */
+  margin-top: 20px;
+  justify-self: center;    /* <- centers in CSS grid */
+  align-self: center;      /* <- if parent ever becomes flex, still centered */
+}
+.projectsSection .image {
+  display: block;          /* remove inline spacing */
+  width: 100%;             /* responsive scale within wrapper */
+  height: auto;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.08);
+}
+.projectsSection .desc {
+  margin: 40px 40px 10px 40px;
+  color: #444;
+  line-height: 1.7;
+}
+.projectsSection .resources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 0px 40px 10px 40px;
+}
+.projectsSection .resourceLink {
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,0.12);
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  background: #f3f3f3;
+  font-weight: bold;
+  color: #333;
+}
+.projectsSection .resourceLink:hover {
+  background: #f2f2f2;
+}
+/* Projects general title (non-h1) */
+.projectsSection .title {
+  font-size: clamp(28px, 3vw, 40px);
+  font-weight: 800;
+  margin: 0 0 6px;
+  letter-spacing: -0.02em;
+}
+
+/* ------------------------------
+   Embla Carousel (Global)
+   ------------------------------ */
+.embla {
+  position: relative;
+  overflow: hidden;
+  margin: 20px 0;
+}
+.embla__viewport {
+  overflow: hidden;
+}
+.embla__container {
+  backface-visibility: hidden;
+  display: flex;
+  touch-action: pan-y;
+  margin-left: -1rem;
+}
+.embla__slide {
+  transform: translate3d(0, 0, 0);
+  position: relative;
+  min-width: 0;
+  padding-left: 1rem;
+}
+.embla__slide__number {
+  width: 5rem;
+  height: 5rem;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  top: 1rem;
+  right: 1.6rem;
+  pointer-events: none;
+}
+.embla__controls {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  justify-content: space-between;
+  gap: 1.2rem;
+  margin-top: 1.8rem;
+}
+.embla__buttons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.6rem;
+  align-items: center;
+}
+.embla__button {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  touch-action: manipulation;
+  text-decoration: none;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-shadow: inset 0 0 0 0.2rem #f8f8f8;
+  width: 3rem;
+  height: 3rem;
+  z-index: 1;
+  color: #333;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.embla__button:disabled {
+  color: #fff;
+}
+.embla__button__svg {
+  width: 35%;
+  height: 35%;
+}
+.embla__dots {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  align-items: center;
+  gap: 0.6rem;
+  justify-self: end;
+}
+.embla__dot {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  touch-action: manipulation;
+  text-decoration: none;
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-shadow: inset 0 0 0 0.2rem #333;
+  width: 1.6rem;
+  height: 1.6rem;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.embla__dot:after {
+  box-shadow: inset 0 0 0 0.2rem #333;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  display: block;
+  content: '';
+  background-color: #333;
+}
+.embla__dot--selected:after {
+  box-shadow: inset 0 0 0 0.2rem #333;
+}
+.embla__dot {
+  box-shadow: inset 0 0 0 0.2rem #333;
+  color: #333;
+}
+.embla__dot--selected {
+  box-shadow: inset 0 0 0 0.2rem #333;
+}
+.embla__slide__image {
+  display: block;
+  border-radius: 1.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: auto;
+}
+.embla__slide__title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #333;
+  text-align: center;
+  font-weight: bold;
+}
+.embla__slide__description {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.4;
+  text-align: left;
+  margin: 10px 0 0 0;
+}
+.embla__slide__resources_guide {
+  font-size: 0.8rem;
+  color: #555;
+  line-height: 1.4;
+  text-align: left;
+  margin: 10px 0 0 0;
+}
+.embla__slide__resources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 20px 0 10px 0;
+}
+.embla__slide__resource {
+  text-decoration: none;
+  border: 1px solid rgba(0,0,0,0.12);
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  background: #f3f3f3;
+  font-weight: bold;
+  color: #333;
+}
+.embla__slide__resource a {
+  color: #333;
+}
+.embla__slide__resource a:hover {
+  background: #f2f2f2;
+}

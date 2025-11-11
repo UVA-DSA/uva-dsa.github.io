@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import styles from "../../styles/projects.module.css";
+// styles moved to global stylesheet (globals.css)
 
 type Resource = { label: string; link: string };
 type Project = {
@@ -13,7 +13,7 @@ type Project = {
 
 const bannerNotice = (
   <p>
-    We are looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team. If you are interested, check out <a href="/resources" className={styles.link}> Resources </a> page for more information.
+    We are looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team. If you are interested, check out <a href="/resources" className="link"> Resources </a> page for more information.
   </p>
 )
 
@@ -117,19 +117,19 @@ const slug = (s: string) =>
 
 export default function Projects() {
   return (
-    <section className={styles.projectsSection}>
-      <h1 className={styles.title}>Our Projects</h1>
-      <p className={styles.subtitle}>
+    <section className="projectsSection">
+      <h1 className="title">Our Projects</h1>
+      <p className="subtitle">
         Our research focuses on design and validation of Resilient Cyber-Physical Systems (CPS) with applications to medical devices, surgical robots, and autonomous systems. We take a multidisciplinary approach to safety and security assurance in CPS by leveraging techniques from dependable computing and fault-tolerance, machine learning, and real-time embedded systems. We develop data-driven methods, realistic testbeds, and simulation platforms for analysis of safety and security incidents, system resilience assessment against accidental and malicious faults, and runtime monitoring for detection and mitigation of adverse events.
       </p>
 
       {/* Top bullet list */}
-      <ul className={styles.navList}>
+      <ul className="navList">
         {projects.map((p) => {
           const id = slug(p.title);
           return (
-            <li key={id} className={styles.navItem}>
-              <a className={styles.navLink} href={`#${id}`}>
+            <li key={id} className="navItem">
+              <a className="navLink" href={`#${id}`}>
                 {p.title}
               </a>
             </li>
@@ -137,44 +137,44 @@ export default function Projects() {
         })}
       </ul>
 
-      <hr className={styles.hr} />
+      <hr className="hr" />
 
       {/* Banner notice */}
-      <div className={styles.banner}>
+      <div className="banner">
         {bannerNotice}
       </div>
 
-      <hr className={styles.hr} />
+      <hr className="hr" />
 
 
       {/* Stacked projects */}
-      <div className={styles.stack}>
+      <div className="stack">
         {projects.map((p) => {
           const id = slug(p.title);
           return (
-            <section key={id} id={id} className={styles.project}>
-              <header className={styles.header}>
-                <h2 className={styles.projectTitle}>{p.title}</h2>
+            <section key={id} id={id} className="project">
+              <header className="header">
+                <h2 className="projectTitle">{p.title}</h2>
               </header>
 
-              <div className={styles.body}>
-                <div className={styles.imageWrap}>
+              <div className="body">
+                <div className="imageWrap">
                   <Image
                     src={p.image}
                     alt={p.title}
                     width={400}
                     height={300}
                     priority={false}
-                    className={styles.image}
+                    className="image"
                   />
                 </div>
 
-                <div className={styles.desc}>{p.description}</div>
+                <div className="desc">{p.description}</div>
 
-                <ul className={styles.resources}>
+                <ul className="resources">
                   {p.resources.map((r) => (
                     <li key={r.label}>
-                      <a className={styles.resourceLink} href={r.link} target="_blank" rel="noreferrer">
+                      <a className="resourceLink" href={r.link} target="_blank" rel="noreferrer">
                         {r.label}
                       </a>
                     </li>
@@ -183,7 +183,7 @@ export default function Projects() {
               </div>
 
               {/* Divider between projects */}
-              <hr className={styles.hr} />
+              <hr className="hr" />
             </section>
           );
         })}

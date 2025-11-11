@@ -1,4 +1,4 @@
-import styles from '../styles/content.module.css';
+// styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
 import heroImage from '../../public/images/uva-main-edited-v2-rounded.png';
 
@@ -31,23 +31,23 @@ const Content: React.FC = () => {
     );
   
   return (
-    <section className={styles.hero}>
-      <div className={styles.heroImageWrapper}>
+    <section className="hero">
+      <div className="heroImageWrapper">
         <Image
           src={heroImage}
           alt="UVA Campus"
           fill
-          className={styles.heroImage}
+          className="heroImage"
           priority
         />
       </div>
-      <div className={styles.heroText}>
-        <div className={styles.heroTextWelcome}>
+      <div className="heroText">
+        <div className="heroTextWelcome">
           Welcome to the Dependable Systems & Analytics Group at UVA. We design and validate resilient cyber-physical systems for medical devices, surgical robots, and autonomous platforms. Combining dependable computing, fault tolerance, machine learning, and real-time embedded systems, we build data-driven methods, testbeds, and simulators to analyze incidents, assess resilience to faults and attacks, and enable runtime monitoring and mitigation.
         </div>
       </div>
       
-      <div className={styles.separator} />
+      <div className="separator" />
 
       <News />
 

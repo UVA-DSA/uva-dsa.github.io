@@ -6,7 +6,7 @@ import React, {
   } from 'react'
   import { EmblaCarouselType } from 'embla-carousel'
   
-  import '../styles/embla.css'
+  // embla styles moved to global stylesheet (globals.css)
 
   type UseDotButtonType = {
     selectedIndex: number
