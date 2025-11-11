@@ -1,13 +1,14 @@
 // styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
+import type { FC } from 'react';
 import uvaLogo from '../../public/images/uva-dsa-logo.png';
 import { FaGithub, FaEnvelope } from 'react-icons/fa'; // Import GitHub icon
 
-const Footer: React.FC = () => {
+const Footer: FC = () => {
     return (
         <footer className="footer">
             <div className="footerLeft">
-                <Image src={uvaLogo} alt="UVA Logo" width={100} height={80} />
+                <Image src={uvaLogo} alt="UVA Logo" width={100} height={90} />
             </div>
             <div className="footerCenter">
                 <p>

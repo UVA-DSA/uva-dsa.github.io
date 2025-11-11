@@ -1,6 +1,6 @@
 "use client";
 
-import React from 'react'
+import type { FC } from 'react'
 import { EmblaOptionsType } from 'embla-carousel'
 import { DotButton, useDotButton } from '../components/emblacarouseldotbutton'
 import {
@@ -25,7 +25,7 @@ type PropType = {
     options?: EmblaOptionsType;
 };
 
-const EmblaCarousel: React.FC<PropType> = (props) => {
+const EmblaCarousel: FC<PropType> = (props) => {
     const { projects, options } = props;
     const [emblaRef, emblaApi] = useEmblaCarousel(options);
 

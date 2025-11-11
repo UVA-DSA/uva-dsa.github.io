@@ -1,16 +1,22 @@
 // styles moved to global stylesheet (globals.css)
+import Image from 'next/image';
+import Link from 'next/link';
+import type { FC } from 'react';
+import uvaLogo from '../../public/images/uva-dsa-logo.png';
 
-const Header: React.FC = () => {
+const Header: FC = () => {
   return (
     <header className="header">
-      <div className="logo"></div>
+      <div className="logo">
+        <Image src={uvaLogo} alt="UVA Logo" width={80} height={80} />
+      </div>
       <nav>
         <ul className="navLinks">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/people">People</a></li>
-          <li><a href="/projects">Projects</a></li>
-          <li><a href="/resources">Resources</a></li>
+          <li><Link href="/">Home</Link></li>
+          <li><Link href="/about">About</Link></li>
+          <li><Link href="/people">People</Link></li>
+          <li><Link href="/projects">Projects</Link></li>
+          <li><Link href="/resources">Resources</Link></li>
         </ul>
       </nav>
     </header>

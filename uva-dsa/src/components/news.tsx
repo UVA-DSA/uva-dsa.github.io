@@ -1,6 +1,5 @@
 // styles moved to global stylesheet (globals.css)
-import Image from 'next/image';
-import heroImage from '../../public/images/uva-main-edited-v2-rounded.png';
+import type { FC } from 'react';
 
 
 const newsItems = [
@@ -23,7 +22,7 @@ const newsItems = [
 
 
 
-const News: React.FC = () => {
+const News: FC = () => {
 
     // Sort news items by date in descending order
     const sortedNewsItems = [...newsItems].sort(

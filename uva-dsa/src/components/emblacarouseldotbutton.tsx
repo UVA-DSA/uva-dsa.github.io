@@ -1,9 +1,5 @@
-import React, {
-    ComponentPropsWithRef,
-    useCallback,
-    useEffect,
-    useState
-  } from 'react'
+import type { ComponentPropsWithRef, FC } from 'react'
+import { useCallback, useEffect, useState } from 'react'
   import { EmblaCarouselType } from 'embla-carousel'
   
   // embla styles moved to global stylesheet (globals.css)
@@ -53,7 +49,7 @@ import React, {
   
   type PropType = ComponentPropsWithRef<'button'>
   
-  export const DotButton: React.FC<PropType> = (props) => {
+  export const DotButton: FC<PropType> = (props) => {
     const { children, ...restProps } = props
   
     return (

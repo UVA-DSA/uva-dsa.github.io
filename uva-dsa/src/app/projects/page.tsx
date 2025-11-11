@@ -1,13 +1,14 @@
 "use client";
 
 import Image from "next/image";
+import type { ReactNode } from "react";
 // styles moved to global stylesheet (globals.css)
 
 type Resource = { label: string; link: string };
 type Project = {
   image: string;
   title: string;
-  description: React.ReactNode;
+  description: ReactNode;
   resources: Resource[];
 };
 
@@ -29,7 +30,7 @@ const projects: Project[] = [
           resilience assessment under faults and cyber threats, continuous
           context-aware monitoring, and simulation-based training for surgical teams:
         </p>
-        <ol className={styles.numberedList}>
+        <ol className="numberedList">
           <li>
             Modeling and analysis of safety incidents by considering the interactions
             among cyber and physical system components and human operators;
@@ -67,7 +68,7 @@ const projects: Project[] = [
             response. The central goal is to design a wearable cognitive assistant
             system that integrates the following key components:
           </p>
-          <ol className={styles.numberedList}>
+          <ol className="numberedList">
             <li>
               <strong>Resilient data analytics</strong> for collecting heterogeneous
               data streams from the incident scene, aggregating them with knowledge

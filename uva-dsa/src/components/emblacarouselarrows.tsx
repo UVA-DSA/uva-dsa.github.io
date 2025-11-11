@@ -1,9 +1,5 @@
-import React, {
-    ComponentPropsWithRef,
-    useCallback,
-    useEffect,
-    useState
-  } from 'react'
+import type { ComponentPropsWithRef, FC } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import { EmblaCarouselType } from 'embla-carousel'
 // embla styles moved to global stylesheet (globals.css)
 
@@ -52,7 +48,7 @@ import { EmblaCarouselType } from 'embla-carousel'
   
   type PropType = ComponentPropsWithRef<'button'>
   
-  export const PrevButton: React.FC<PropType> = (props) => {
+  export const PrevButton: FC<PropType> = (props) => {
     const { children, ...restProps } = props
   
     return (
@@ -72,7 +68,7 @@ import { EmblaCarouselType } from 'embla-carousel'
     )
   }
   
-  export const NextButton: React.FC<PropType> = (props) => {
+  export const NextButton: FC<PropType> = (props) => {
     const { children, ...restProps } = props
   
     return (
