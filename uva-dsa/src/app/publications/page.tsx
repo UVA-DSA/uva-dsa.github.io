@@ -73,7 +73,7 @@ export default function Publications() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {p.title} <FaFilePdf size={15} className="icon" />
+                <FaFilePdf size={15} className="icon" />{p.title}
               </a>
               <div className="publicationMeta">
                 {p.authors && <span className="authors">{p.authors}</span>}
