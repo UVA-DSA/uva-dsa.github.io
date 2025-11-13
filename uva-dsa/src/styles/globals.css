@@ -17,6 +17,10 @@
 /* src/app/globals.css or styles/globals.css */
 html {
   scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+}
+@supports not (scrollbar-gutter: stable) {
+  html { overflow-y: scroll; }
 }
 
 
@@ -322,7 +326,7 @@ section.hero .heroTextWelcome {
    About (also used by Resources)
    ------------------------------ */
 .aboutSection {
-  max-width: 800px;
+  max-width: 1100px;
   margin: 20px auto;
   padding: 20px;
   text-align: left;
@@ -332,7 +336,7 @@ section.hero .heroTextWelcome {
   font-size: 22px;
   line-height: 1.25;
   font-weight: 700;
-  margin: 0 0 6px;
+  margin: 0 0 0px;
   color: #646464;
   text-align: left;
 }
@@ -390,10 +394,10 @@ section.hero .heroTextWelcome {
 }
 
 /* ------------------------------
-   People
-   ------------------------------ */
+  People
+  ------------------------------ */
 .peopleSection {
-  max-width: 800px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 20px;
   text-align: left;
@@ -439,8 +443,8 @@ section.hero .heroTextWelcome {
 }
 .peopleSection .imageContainer {
   position: relative;
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   margin: 15px auto;
   overflow: hidden;
   border-radius: 10px;
@@ -466,11 +470,89 @@ section.hero .heroTextWelcome {
 }
 .peopleSection .socialImageContainer {
   position: relative;
-  width: 240px;
+  width: 290px;
   height: 180px;
   overflow: hidden;
   border-radius: 10px;
   object-fit: cover;
+}
+
+/* ------------------------------
+   Publications
+   ------------------------------ */
+.publicationsSection {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.publicationsSection .sectionTitle {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #646464;
+}
+.publicationsIntro {
+  font-size: 1.0rem;
+  color: #555;
+  margin-bottom: 16px;
+}
+.publicationsLoading,
+.publicationsError,
+.publicationsEmpty {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 8px 0 16px 0;
+}
+.publicationsList {
+  list-style: none;
+  margin: 16px 0 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.publicationItem {
+  background-color: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  padding: 12px 14px;
+  transition: box-shadow 0.2s ease;
+}
+.publicationItem:hover {
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.08);
+}
+.publicationTitle {
+  font-size: 1.05rem;
+  color: #000000;
+  font-weight: 700;
+  display: inline; /* allow text to wrap naturally and align icon to last line */
+}
+/* react-icons within the title */
+.publicationTitle .icon {
+  color: #b00020; /* subtle PDF red */
+  display: inline-block; /* ensure icon does not become its own line */
+  vertical-align: middle; /* align neatly with first line of text */
+  margin-right: 8px; /* spacing before the title text */
+}
+.publicationMeta {
+  margin-top: 6px;
+  color: #666;
+  font-size: 0.95rem;
+}
+.publicationMeta .sep {
+  color: #bbb;
+}
+.publicationMeta .authors {
+  color: #5a5a5a;
+}
+.publicationMeta .venue {
+  color: #6a6a6a;
+}
+.publicationMeta .year {
+  color: #888;
 }
 
 /* ------------------------------

@@ -30,13 +30,13 @@ const graduateStudents = [
     image: '/images/people/hamid-headshot.jpg',
     website: 'https://hamidrezaro.github.io/',
   },
-  {
-    name: 'Zoey Li',
-    role: 'Graduate Student',
-    image: '/images/people/zoey-headshot.jpg',
-    website: 'https://www.zongyuli.net/',
+  // {
+  //   name: 'Zoey Li',
+  //   role: 'Graduate Student',
+  //   image: '/images/people/zoey-headshot.jpg',
+  //   website: 'https://www.zongyuli.net/',
 
-  },
+  // },
   {
     name: 'Zhaomeng',
     role: 'Graduate Student',
