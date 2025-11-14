@@ -101,7 +101,6 @@ export default function People() {
         </div>
       </div>
 
-      <div className="separator" />
 
       {/* Graduate Students Section */}
       <div className="section">
@@ -134,7 +133,6 @@ export default function People() {
         </div>
       </div>
 
-      <div className="separator" />
 
       {/* Undergraduate Students Section */}
       <div className="section">

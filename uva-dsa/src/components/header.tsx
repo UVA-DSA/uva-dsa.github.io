@@ -1,15 +1,11 @@
 // styles moved to global stylesheet (globals.css)
-import Image from 'next/image';
 import Link from 'next/link';
 import type { FC } from 'react';
-import uvaLogo from '../../public/images/uva-dsa-logo.png';
 
 const Header: FC = () => {
   return (
     <header className="header">
-      <div className="logo">
-       
-      </div>
+	  <div></div>
       <nav>
         <ul className="navLinks">
           <li><Link href="/">Home</Link></li>
