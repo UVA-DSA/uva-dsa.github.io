@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import heroImage from '../../../public/images/projects/UVA-DSA.png';
 import type { ReactNode } from "react";
 // styles moved to global stylesheet (globals.css)
 
@@ -13,9 +14,8 @@ type Project = {
 };
 
 const bannerNotice = (
-  <p>
-    We are looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team. If you are interested, check out <a href="/resources" className="link"> Resources </a> page for more information.
-  </p>
+  <p>We are always looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team.
+  <br />If you are interested, check out <a href="/resources" className="link"> Resources </a> page for more information.</p>
 )
 
 const projects: Project[] = [
@@ -119,9 +119,19 @@ const slug = (s: string) =>
 export default function Projects() {
   return (
     <section className="projectsSection">
-      <h1 className="title">Our Projects</h1>
+        <div className="heroImageWrapper">
+        <Image
+          src={heroImage}
+          alt="UVA Projects"
+          className="heroImage"
+          priority
+        />
+      </div>
+      
+
       <p className="subtitle">
-        Our research focuses on design and validation of Resilient Cyber-Physical Systems (CPS) with applications to medical devices, surgical robots, and autonomous systems. We take a multidisciplinary approach to safety and security assurance in CPS by leveraging techniques from dependable computing and fault-tolerance, machine learning, and real-time embedded systems. We develop data-driven methods, realistic testbeds, and simulation platforms for analysis of safety and security incidents, system resilience assessment against accidental and malicious faults, and runtime monitoring for detection and mitigation of adverse events.
+        At UVA Dependable Systems & Analytics group, we build the next-generation of <b>Resilient Cyber-Physical Systems</b>.  
+        We take a multidisciplinary approach to <b>safety and security assurance</b> of CPS, with applications to medical devices, surgical robots, and autonomous systems. By leveraging techniques from <b>dependable computing and fault-tolerance, machine learning, and real-time systems</b>, we develop integrated model and data-driven methods, realistic testbeds and simulators, and datasets to analyze incidents, assess resilience to faults and attacks, and enable runtime monitoring for detection and mitigation of adverse events.   
       </p>
 
       {/* Top bullet list */}
@@ -146,7 +156,6 @@ export default function Projects() {
       </div>
 
       <hr className="hr" />
-
 
       {/* Stacked projects */}
       <div className="stack">

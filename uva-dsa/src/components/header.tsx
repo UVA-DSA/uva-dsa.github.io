@@ -8,15 +8,14 @@ const Header: FC = () => {
   return (
     <header className="header">
       <div className="logo">
-        <Image src={uvaLogo} alt="UVA Logo" width={80} height={80} />
+       
       </div>
       <nav>
         <ul className="navLinks">
           <li><Link href="/">Home</Link></li>
-          <li><Link href="/about">About</Link></li>
-          <li><Link href="/people">People</Link></li>
-          <li><Link href="/projects">Projects</Link></li>
+          <li><Link href="/projects">Research</Link></li>
           <li><Link href="/publications">Publications</Link></li>
+          <li><Link href="/people">People</Link></li>
           <li><Link href="/resources">Resources</Link></li>
         </ul>
       </nav>

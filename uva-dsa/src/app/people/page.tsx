@@ -14,32 +14,25 @@ const PIs = [
 const graduateStudents = [
   {
     name: 'Keshara Weerasinghe',
-    role: 'Graduate Student',
+    role: 'Ph.D. Student',
     image: '/images/people/keshara-headshot.jpg',
     website: 'https://keshara2032.github.io/',
   },
   {
     name: 'Xueren Ge',
-    role: 'Graduate Student',
+    role: 'Ph.D. Student',
     image: '/images/people/xueren-headshot.jpg',
     website: 'https://xueren-ge.github.io/',
   },
   {
     name: 'Hamid Roodabeh',
-    role: 'Graduate Student',
+    role: 'Ph.D. Student',
     image: '/images/people/hamid-headshot.jpg',
     website: 'https://hamidrezaro.github.io/',
   },
-  // {
-  //   name: 'Zoey Li',
-  //   role: 'Graduate Student',
-  //   image: '/images/people/zoey-headshot.jpg',
-  //   website: 'https://www.zongyuli.net/',
-
-  // },
   {
     name: 'Zhaomeng',
-    role: 'Graduate Student',
+    role: 'Ph.D. Student',
     image: '/images/people/zhaomeng-headshot.jpg',
     website: 'https://zhaomeng-zhang.github.io/',
 
@@ -76,34 +69,10 @@ const groupGetTogethers = [
 export default function People() {
   return (
     <section className="peopleSection">
-      <h1 className="title">Our Team</h1>
-      <p className="subtitle">
-        Meet the researchers and contributors driving UVA-DSA forward.
-      </p>
-
-      <div className="separator" />
-      <div className="section">
-        <div className="list">
-          {groupGetTogethers.map((event, index) => (
-            <div key={index} >
-              <div  className="socialImageContainer">
-                <Image
-                  src={event.image}
-                  alt={event.event}
-                  fill
-                  className="image"
-                  objectFit="cover"
-                />
-              </div>
-            </div>
-          ))}
-        </div>
-      </div>
-      <div className="separator" />
 
       {/* Principal Investigators Section */}
       <div className="section">
-        <h2 className="sectionTitle">Principal Investigators</h2>
+        <h2 className="sectionTitle">Principal Investigator</h2>
         <div className="list">
           {PIs.map((member, index) => (
                         <a
@@ -126,7 +95,6 @@ export default function People() {
                 />
               </div>
               <h2 className="name">{member.name}</h2>
-              <h3 className="role">{member.role}</h3>
             </div>
             </a>
           ))}
@@ -170,7 +138,7 @@ export default function People() {
 
       {/* Undergraduate Students Section */}
       <div className="section">
-        <h2 className="sectionTitle">Undergraduate Students</h2>
+        <h2 className="sectionTitle">Undergraduate Researchers</h2>
         <div className="list">
           {undergraduateStudents.map((member, index) => (
               <a
@@ -198,6 +166,26 @@ export default function People() {
           ))}
         </div>
       </div>
+    
+    <div className="separator" />
+      <div className="section">
+        <div className="list">
+          {groupGetTogethers.map((event, index) => (
+            <div key={index} >
+              <div  className="socialImageContainer">
+                <Image
+                  src={event.image}
+                  alt={event.event}
+                  fill
+                  className="image"
+                  objectFit="cover"
+                />
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+      <div className="separator" />
     </section>
   );
 }

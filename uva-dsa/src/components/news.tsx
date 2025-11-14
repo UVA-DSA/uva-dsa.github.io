@@ -4,19 +4,14 @@ import type { FC } from 'react';
 
 const newsItems = [
   {
-    title: 'UVA-DSA Secures Major Research Grant',
-    description: 'Our group recently secured a research grant from a major funding agency to study ....',
-    date: 'January 2, 2025',
+    title: 'UVA-DSA has two papers accepted to AAAI-2026',
+    description: 'EMSQA in the Main Oral Track and EgoEMS in the Social Impact Track',
+    date: 'November 7, 2025',
   },
   {
-    title: 'New Publication in IEEE Transactions',
-    description: 'Our latest research on ....',
-    date: 'December 15, 2024',
-  },
-  {
-    title: 'Workshop on Dependable AI Systems',
-    description: 'Join us for our upcoming workshop on AI safety and dependability at UVA.',
-    date: 'November 20, 2024',
+    title: 'Keshara Wins Poster Award at 2025 UVA SEAS AI/ML Resource Fair',
+    description: 'CognitiveEMS: Real-Time Multimodal Cognitive Assistant for Emergency Medical Services',
+    date: 'October 15, 2025',
   },
 ];
 

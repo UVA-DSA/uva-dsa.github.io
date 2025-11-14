@@ -48,10 +48,6 @@ export default function Publications() {
 
   return (
     <section className="publicationsSection">
-      <h1 className="sectionTitle">Publications</h1>
-      <p className="intro publicationsIntro">
-        Automatically populated from Google Scholar at build time.
-      </p>
 
       {!data && !error && (
         <div className="publicationsLoading">Loading latest publications…</div>

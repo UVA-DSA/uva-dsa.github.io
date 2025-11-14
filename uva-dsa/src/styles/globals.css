@@ -160,7 +160,8 @@ ul {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: 0px;
+  padding: 10px;
+  max-width: 1000px;
 }
 
 /* Default separator used on home/news */
@@ -244,7 +245,7 @@ ul {
    ------------------------------ */
 section.hero .heroImageWrapper {
   position: relative;
-  margin-top: 0px;
+  margin-top: 10px;
   width: 100%;
   height: 45vh;
   box-sizing: border-box; /* Ensure padding doesn't affect the image size */
@@ -253,22 +254,29 @@ section.hero .heroImageWrapper {
 }
 section.hero .heroImage {
   object-fit: contain;
+  width: 100%;
+  height: 100%;
 }
 section.hero .heroText {
+  margin-top: 20px;
   text-align: center;
   margin-right: 30px;
   margin-left: 30px;
   padding-bottom: 30px;
 }
 section.hero .heroText h1 {
+  margin-top: 5px;
   font-size: 2.5rem;
+  color: #5e5e5e;
+  font-family:"Open Sans", "Helvetica Neue", Helvetica;
 }
 section.hero .heroTextWelcome {
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-top: 5px;
   color: #5e5e5e;
   font-style: italic;
   font-family:"Open Sans", "Helvetica Neue", Helvetica;
+  text-align: justify;
 }
 
 /* ------------------------------
@@ -281,7 +289,7 @@ section.hero .heroTextWelcome {
 }
 .newsTitle {
   font-size: 1.5rem;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   font-weight: bold;
   color: #757575;
 }
@@ -294,8 +302,8 @@ section.hero .heroTextWelcome {
   background-color: #ffffff;
   border: 2px solid #fdf4ec;
   border-radius: 10px;
-  max-width: 1100px;
-  min-width: 1000px;
+  max-width:900px;
+  min-width:900px;
   padding: 10px;
   text-align: left;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -327,7 +335,7 @@ section.hero .heroTextWelcome {
    ------------------------------ */
 .aboutSection {
   max-width: 1100px;
-  margin: 20px auto;
+  margin: 0px auto;
   padding: 20px;
   text-align: left;
   line-height: 1.6;
@@ -560,7 +568,7 @@ section.hero .heroTextWelcome {
    ------------------------------ */
 .projectsSection {
   max-width: 1100px;
-  margin: 0 auto;
+  margin: 10 auto;
   padding: 24px 16px 64px;
 }
 /* Specific H1 title rules for projects */
@@ -574,6 +582,7 @@ section.hero .heroTextWelcome {
 .projectsSection .subtitle {
   font-size: 1.0rem;
   color: #6e6e6e;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 /* Top bullet list */
@@ -630,6 +639,17 @@ section.hero .heroTextWelcome {
   justify-self: center;    /* <- centers in CSS grid */
   align-self: center;      /* <- if parent ever becomes flex, still centered */
 }
+
+.projectsSection .heroImageWrapper {
+  position: relative;
+  margin-top: 0px;
+  width: 100%;
+  height: 45vh;
+  box-sizing: border-box; /* Ensure padding doesn't affect the image size */
+  background-color: white; /* Optional: Add a background color */
+  overflow: hidden; /* Ensures the image respects the rounded corners */
+}
+
 .projectsSection .image {
   display: block;          /* remove inline spacing */
   width: 100%;             /* responsive scale within wrapper */

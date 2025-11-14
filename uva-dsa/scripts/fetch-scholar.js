@@ -42,7 +42,7 @@ async function fetchScholarHTML(userId) {
   return await res.text();
 }
 
-function parsePublications(html, maxItems = 25) {
+function parsePublications(html, maxItems = 100) {
   if (!cheerio) {
     console.warn(
       "[fetch-scholar] 'cheerio' not installed. Skipping parse and returning empty list."
@@ -99,7 +99,7 @@ async function main() {
 
   try {
     const html = await fetchScholarHTML(userId);
-    const items = parsePublications(html, 25);
+    const items = parsePublications(html, 100);
     result.items = items;
   } catch (err) {
     console.error("[fetch-scholar] Error:", err.message || err);
