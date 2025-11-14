@@ -20,16 +20,11 @@ const Content: FC = () => {
           priority
         />
       </div>
-      <div className="heroText">
-        <div className="heroTextWelcome">     
-        </div>
-      </div>
       
       <div className="separator" />
 
       <News />
-
-
+      
     </section>
   );
 };
