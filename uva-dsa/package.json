@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
+    "cheerio": "^1.1.2",
     "embla-carousel": "^8.5.1",
     "embla-carousel-react": "^8.5.1",
     "next": "^15.1.3",
