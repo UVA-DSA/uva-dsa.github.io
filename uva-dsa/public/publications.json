@@ -1,8 +1,22 @@
 {
   "source": "google-scholar",
-  "generatedAt": "2025-11-14T16:00:19.516Z",
+  "generatedAt": "2025-11-17T04:16:37.612Z",
   "userId": "sXpmLxUAAAAJ",
   "items": [
+    {
+      "title": "EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services",
+      "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
+      "venue": "arXiv preprint arXiv:2511.09894, 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC"
+    },
+    {
+      "title": "Activity-Aware Recovery from Network Communication Loss in Teleoperated Robotic Surgery",
+      "authors": "SHR Roodabeh, H Alemzadeh",
+      "venue": "TechRxiv, 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC"
+    },
     {
       "title": "Knowsafe: Combined knowledge and data driven hazard mitigation in artificial pancreas systems",
       "authors": "X Zhou, M Kouzel, C Smith, H Alemzadeh",
@@ -688,20 +702,6 @@
       "venue": "",
       "year": "",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XoXfffV-tXoC"
-    },
-    {
-      "title": "PRDC 2022",
-      "authors": "L Fiondella, T Su, KS Yim, X Chen, H Okamura, Z Dong, A Orailoglu, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:i2xiXl-TujoC"
-    },
-    {
-      "title": "Technical Program Committee CHASE 2022",
-      "authors": "A Etemad, A Rahmani, B Morshed, B Zhou, BJ Mortazavi, C Chen, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:S16KYo8Pm5AC"
     }
   ],
   "byYear": {
@@ -1322,6 +1322,20 @@
     ],
     "2025": [
       {
+        "title": "EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services",
+        "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
+        "venue": "arXiv preprint arXiv:2511.09894, 2025",
+        "year": "2025",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC"
+      },
+      {
+        "title": "Activity-Aware Recovery from Network Communication Loss in Teleoperated Robotic Surgery",
+        "authors": "SHR Roodabeh, H Alemzadeh",
+        "venue": "TechRxiv, 2025",
+        "year": "2025",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC"
+      },
+      {
         "title": "Knowsafe: Combined knowledge and data driven hazard mitigation in artificial pancreas systems",
         "authors": "X Zhou, M Kouzel, C Smith, H Alemzadeh",
         "venue": "IEEE Transactions on Dependable and Secure Computing, 2025",
@@ -1427,20 +1441,6 @@
         "venue": "",
         "year": "",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XoXfffV-tXoC"
-      },
-      {
-        "title": "PRDC 2022",
-        "authors": "L Fiondella, T Su, KS Yim, X Chen, H Okamura, Z Dong, A Orailoglu, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:i2xiXl-TujoC"
-      },
-      {
-        "title": "Technical Program Committee CHASE 2022",
-        "authors": "A Etemad, A Rahmani, B Morshed, B Zhou, BJ Mortazavi, C Chen, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:S16KYo8Pm5AC"
       }
     ]
   }

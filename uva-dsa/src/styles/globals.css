@@ -247,7 +247,7 @@ section.hero .heroImageWrapper {
   position: relative;
   margin-top: 20px;
   width: 100%;
-  height: 40vh;
+  height: auto;
   box-sizing: border-box; /* Ensure padding doesn't affect the image size */
   background-color: white; /* Optional: Add a background color */
   overflow: hidden; /* Ensures the image respects the rounded corners */
@@ -643,8 +643,9 @@ section.hero .heroTextWelcome {
 .projectsSection .heroImageWrapper {
   position: relative;
   margin-top: 0px;
+  margin-bottom: 15px;
   width: 100%;
-  height: 40vh;
+  height: auto;
   box-sizing: border-box; /* Ensure padding doesn't affect the image size */
   background-color: white; /* Optional: Add a background color */
   overflow: hidden; /* Ensures the image respects the rounded corners */
