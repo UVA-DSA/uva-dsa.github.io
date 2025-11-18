@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import heroImage from '../../../public/images/projects/UVA-DSA.png';
 import type { ReactNode } from "react";
 // styles moved to global stylesheet (globals.css)
 
@@ -128,7 +129,14 @@ export default function Projects() {
   return (
     <section className="projectsSection">
 
-      
+      <div className="heroImageWrapper">
+        <Image
+          src={heroImage}
+          alt="UVA Projects"
+          className="heroImage"
+          priority
+        />
+      </div>
 
       <p className="subtitle">
         At UVA Dependable Systems & Analytics group, we build the next-generation of <b>Resilient Cyber-Physical Systems</b>.  
