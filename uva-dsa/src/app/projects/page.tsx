@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import heroImage from '../../../public/images/projects/UVA-DSA.png';
 import type { ReactNode } from "react";
 // styles moved to global stylesheet (globals.css)
 
@@ -12,11 +11,20 @@ type Project = {
   description: ReactNode;
   resources: Resource[];
 };
+type Sponsor = { name: string; logo: string };
 
-const bannerNotice = (
-  <p>We are always looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team.
-  <br />If you are interested, check out <a href="/resources" className="link"> Resources </a> page for more information.</p>
-)
+// const bannerNotice = (
+//   <p>We are always looking for highly motivated graduate and undergraduate students with research and hands-on experience in computer systems dependability & security, robotics, and machine learning to join our team.
+//   <br />If you are interested, check out <a href="/resources" className="link"> Resources </a> page for more information.</p>
+// )
+
+const sponsors: Sponsor[] = [
+  { name: "Commonwealth Cyber Initiative", logo: "/images/sponsors/CCI_logo.png" },
+  { name: "National Institute of Standards and Technology", logo: "/images/sponsors/NIST_logo.png" },
+  { name: "National Science Foundation", logo: "/images/sponsors/NSF_Logo.png" },
+  { name: "UVA School of Engineering and Applied Science", logo: "/images/sponsors/SEAS_logo.png" },
+  { name: "UVA Health", logo: "/images/sponsors/UVAHealth_logo.png" },
+];
 
 const projects: Project[] = [
   {
@@ -119,14 +127,7 @@ const slug = (s: string) =>
 export default function Projects() {
   return (
     <section className="projectsSection">
-        <div className="heroImageWrapper">
-        <Image
-          src={heroImage}
-          alt="UVA Projects"
-          className="heroImage"
-          priority
-        />
-      </div>
+
       
 
       <p className="subtitle">
@@ -148,12 +149,27 @@ export default function Projects() {
         })}
       </ul>
 
+            <div className="sponsorRow" aria-label="Project sponsors">
+        {sponsors.map((sponsor) => (
+          <div key={sponsor.name} className="sponsorLogoWrap">
+            <Image
+              src={sponsor.logo}
+              alt={`${sponsor.name} logo`}
+              width={150}
+              height={80}
+              className="sponsorLogo"
+              priority={false}
+            />
+          </div>
+        ))}
+      </div>
+
       <hr className="hr" />
 
       {/* Banner notice */}
-      <div className="banner">
+      {/* <div className="banner">
         {bannerNotice}
-      </div>
+      </div> */}
 
       <hr className="hr" />
 

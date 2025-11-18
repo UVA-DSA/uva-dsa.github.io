@@ -328,6 +328,54 @@ section.hero .heroTextWelcome {
   color: #747474;
   line-height: 1.0;
   font-family:"Open Sans", "Helvetica Neue", Helvetica;
+  padding-bottom: 7px;
+}
+.newsCardBody {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: stretch;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.newsCardDetails {
+  flex: 2;
+  min-width: 300px;
+}
+.newsCardDetails .newsItemTitle {
+  margin-top: 0;
+}
+.newsCardDetails .newsItemDescription {
+  margin: 0;
+  padding-bottom: 0;
+}
+.newsLinksColumn {
+  flex: 1;
+  min-width: 220px;
+  border-left: 1px solid #f1f1f1;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.newsItemLink {
+  margin: 2px 0;
+  font-size: 0.95rem;
+  color: #555;
+}
+.newsItemLink a {
+  color: #2f70c1;
+  font-weight: 600;
+}
+.newsItemLink a:hover {
+  text-decoration: underline;
+}
+.newsItemLinkLabel {
+  font-weight: 600;
+  color: #9a9a9a;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.8rem;
 }
 
 /* ------------------------------
@@ -649,6 +697,37 @@ section.hero .heroTextWelcome {
   box-sizing: border-box; /* Ensure padding doesn't affect the image size */
   background-color: white; /* Optional: Add a background color */
   overflow: hidden; /* Ensures the image respects the rounded corners */
+}
+.projectsSection .sponsorRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  padding: 18px 24px;
+  margin-bottom: 30px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 18px;
+  background: #fff;
+  flex-wrap: wrap;
+}
+.projectsSection .sponsorLogoWrap {
+  flex: 0 1 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+}
+.projectsSection .sponsorLogo {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: grayscale(0.1);
+  opacity: 0.9;
+  transition: opacity 0.2s ease, filter 0.2s ease;
+}
+.projectsSection .sponsorLogoWrap:hover .sponsorLogo {
+  filter: none;
+  opacity: 1;
 }
 
 .projectsSection .image {
