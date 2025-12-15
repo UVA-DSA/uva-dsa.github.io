@@ -1,8 +1,15 @@
 {
   "source": "google-scholar",
-  "generatedAt": "2025-11-18T22:05:23.300Z",
+  "generatedAt": "2025-12-15T15:30:32.433Z",
   "userId": "sXpmLxUAAAAJ",
   "items": [
+    {
+      "title": "Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering",
+      "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
+      "venue": "arXiv preprint arXiv:2511.10900, 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC"
+    },
     {
       "title": "EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services",
       "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
@@ -695,13 +702,6 @@
       "venue": "",
       "year": "",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ug5p-4gJ2f0C"
-    },
-    {
-      "title": "DSN 2023 Research Track Program Committee",
-      "authors": "X Défago, O Mutlu, E Alchieri, H Alemzadeh, H Amrouch, A Babay, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XoXfffV-tXoC"
     }
   ],
   "byYear": {
@@ -1322,6 +1322,13 @@
     ],
     "2025": [
       {
+        "title": "Expert-Guided Prompting and Retrieval-Augmented Generation for Emergency Medical Service Question Answering",
+        "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
+        "venue": "arXiv preprint arXiv:2511.10900, 2025",
+        "year": "2025",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC"
+      },
+      {
         "title": "EgoEMS: A High-Fidelity Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services",
         "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
         "venue": "arXiv preprint arXiv:2511.09894, 2025",
@@ -1434,13 +1441,6 @@
         "venue": "",
         "year": "",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ug5p-4gJ2f0C"
-      },
-      {
-        "title": "DSN 2023 Research Track Program Committee",
-        "authors": "X Défago, O Mutlu, E Alchieri, H Alemzadeh, H Amrouch, A Babay, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XoXfffV-tXoC"
       }
     ]
   }
