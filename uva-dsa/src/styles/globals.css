@@ -743,6 +743,14 @@ section.hero .heroTextWelcome {
   color: #444;
   line-height: 1.7;
 }
+.projectsSection .numberedList {
+  list-style: disc;
+  padding-left: 1.25rem;
+  margin: 0.75rem 0;
+}
+.projectsSection .numberedList li {
+  margin: 0.35rem 0;
+}
 .projectsSection .resources {
   display: flex;
   flex-wrap: wrap;

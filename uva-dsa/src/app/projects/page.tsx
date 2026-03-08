@@ -29,6 +29,101 @@ const sponsors: Sponsor[] = [
 
 const projects: Project[] = [
   {
+    image: "/images/projects/MiDAS/MiDAS.png",
+    title: "MiDAS: Multimodal Data Acquisition System for Robot-Assisted Surgery",
+    description: (
+      <div>
+        <p>
+          This project introduces MiDAS, an open-source multimodal data acquisition system designed to support
+          research in robot-assisted minimally invasive surgery (RMIS). The system enables synchronized collection
+          of surgical data without requiring access to proprietary robot telemetry, making it possible to study
+          surgical workflows and develop AI-driven assistance systems across multiple robotic platforms.
+        </p>
+
+        <ol className="numberedList">
+          <li>
+            <strong>Platform-agnostic multimodal sensing system</strong> with a non-invasive data collection
+            framework that captures synchronized surgical data including electromagnetic hand tracking, RGB-D
+            hand motion capture, stereo surgical video, and foot pedal interaction signals without modifying
+            robotic hardware.
+          </li>
+          <li>
+            <strong>Cross-platform data collection on surgical robots</strong> validated on the open-source Raven-II
+            surgical robot and the clinical da Vinci Xi system, showing that external sensing modalities can
+            approximate internal robot kinematics and capture surgeon interaction dynamics.
+          </li>
+          <li>
+            <strong>Multimodal surgical activity datasets</strong> with annotated data from robotic surgery training
+            tasks, including peg transfer experiments and high-fidelity suturing procedures on realistic tissue
+            simulation models during a surgical training bootcamp.
+          </li>
+          <li>
+            <strong>Benchmarks for surgical gesture recognition</strong> evaluating state-of-the-art temporal models
+            for gesture recognition using multimodal signals, demonstrating performance comparable to proprietary
+            robot telemetry.
+          </li>
+        </ol>
+        <p>
+          By providing an open-source data acquisition system and multimodal datasets across multiple surgical
+          platforms, MiDAS aims to reduce barriers to surgical AI research and accelerate the development of
+          intelligent systems for surgical workflow understanding, skill assessment, and cognitive assistance in
+          robot-assisted surgery.
+        </p>
+      </div>
+    ),
+    resources: [
+      { label: "Article", link: "https://arxiv.org/abs/2602.12407" },
+      { label: "Dataset", link: "https://uva-dsa.github.io/MiDAS/" },
+      { label: "GitHub Link", link: "https://github.com/UVA-DSA/MiDAS" },
+    ],
+  },
+  {
+    image: "/images/projects/EgoEMS/EgoEMS_Main_Camera_Ready.png",
+    title: "EgoEMS: Multimodal Egocentric Dataset for Cognitive Assistance in Emergency Medical Services",
+    description: (
+      <div>
+        <p>
+          This project introduces EgoEMS, the first high-fidelity multimodal egocentric dataset designed
+          to support the development of AI systems that assist Emergency Medical Services (EMS) responders
+          during critical incidents. The dataset captures realistic emergency scenarios with synchronized
+          multimodal sensing to enable research on real-time cognitive assistance, activity recognition,
+          and performance feedback for first responders.
+        </p>
+        <ol className="numberedList">
+          <li>
+            <strong>Multimodal egocentric data collection</strong> via a synchronized sensing platform capturing
+            responder egocentric video, conversational audio, smartwatch IMU motion signals, and CPR quality
+            measurements using low-cost off-the-shelf devices.
+          </li>
+          <li>
+            <strong>Realistic EMS scenario simulations</strong> with over 20 hours of data across 233 simulated
+            emergency scenarios involving 62 participants performing interventions such as CPR, defibrillation,
+            ventilation, stroke assessment, and ECG monitoring.
+          </li>
+          <li>
+            <strong>Fine-grained procedural annotations</strong> including an EMS activity taxonomy with 67 keysteps
+            across 9 medical interventions, timestamped audio transcripts, speaker diarization, object detection
+            annotations, and segmentation masks for medical tools used during procedures.
+          </li>
+          <li>
+            <strong>Benchmarks for AI cognitive assistants</strong> spanning keystep classification, keystep
+            segmentation, and CPR quality estimation using multimodal data.
+          </li>
+        </ol>
+        <p>
+          By providing realistic multimodal data and standardized benchmarks, EgoEMS aims to accelerate research
+          on AI-powered cognitive assistants that improve situational awareness, protocol adherence, and responder
+          training in emergency medical environments, ultimately contributing to better patient outcomes.
+        </p>
+      </div>
+    ),
+    resources: [
+      { label: "Article", link: "https://arxiv.org/pdf/2511.09894" },
+      { label: "Dataset", link: "https://uva-dsa.github.io/EgoEMS/" },
+      { label: "GitHub Link", link: "https://github.com/UVA-DSA/EgoEMS" },
+    ],
+  },
+  {
     image: "/images/projects/RAS/RAS2.png",
     title: "Resilient Cyber-Physical Systems for Robotic Surgery",
     description: (
@@ -98,6 +193,7 @@ const projects: Project[] = [
       { label: "GitHub Link", link: "https://github.com/UVA-DSA/EMS-Pipeline/tree/demo" },
     ],
   },
+
   {
     image: "/images/projects/ResilientMedDevices/OpenAPS2.png",
     title: "Resilience-by-Construction Design of Medical Devices",
