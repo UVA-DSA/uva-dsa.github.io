@@ -4,9 +4,24 @@
 
 const bannerNotice = (
   <p>
-        We have Ph.D. positions available for Fall 2026. We are looking for highly motivated students with experience in computer systems dependability & security, robotics, and machine learning to join our team.
-        <br/>If you are interested, send us an email along with your most recent CV and transcript.
+        We have Ph.D. positions available for Fall 2027. We are looking for highly motivated students with experience in computer systems dependability & security, robotics, and machine learning to join our team.
   </p>
+)
+
+const applicationLinkNotice = (
+  <div className="applicationNotice">
+    <p className="applicationNoticeText">
+      If you are interested, you can submit your information through our application form.
+    </p>
+    <a
+      href="https://forms.gle/eiKSBNb767ow3LxB8"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="applicationButton"
+    >
+      Open Application Form
+    </a>
+  </div>
 )
 
 export default function Resources() {
@@ -20,14 +35,12 @@ export default function Resources() {
 
       <div className="section">
         <h2 className="sectionTitle">Openings</h2>
-        <p className="sectionText">
-          
-        </p>
 
-      {/* Banner notice */}
-      <div className="banner">
-        {bannerNotice}
-      </div>
+        <div className="banner">
+          {bannerNotice}
+        </div>
+
+        {applicationLinkNotice}
 
         {/* <h3 className="sectionSubtitle">Ph.D. Applicants</h3>
         <p className="sectionText">

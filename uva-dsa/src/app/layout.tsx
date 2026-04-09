@@ -1,11 +1,15 @@
 import '../styles/globals.css';
 import Header from '../components/header';
 import Footer from '../components/footer';
-import type { ReactNode } from 'react';
+import type { Metadata, ReactNode } from 'react';
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'UVA-DSA',
   description: 'Dependable Systems and Analytics Research Group',
+  icons: {
+    icon: '/images/uva-dsa-logo-square.png',
+    shortcut: '/images/uva-dsa-logo-square.png',
+  },
 };
 
 export default function RootLayout({

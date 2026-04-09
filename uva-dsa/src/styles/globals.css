@@ -448,6 +448,41 @@ section.hero .heroTextWelcome {
   font-weight: 600;
   color: #490808; /* Darker text color for contrast */
 }
+.applicationNotice {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px 20px;
+  margin-top: -4px;
+  border: 1px solid #fa818b;
+  border-radius: 10px;
+  background-color: #fae0e0;
+}
+.applicationNoticeText {
+  margin: 0;
+  color: #490808;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.applicationButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background-color: #8f1f29;
+  color: #ffffff;
+  font-weight: 700;
+  white-space: nowrap;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+.applicationButton:hover {
+  background-color: #6f121a;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
 
 /* ------------------------------
   People
