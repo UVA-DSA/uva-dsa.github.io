@@ -35,7 +35,8 @@ const projects: Project[] = [
       <div>
         <p>
           This project introduces MiDAS, an open-source multimodal data acquisition system designed to support
-          research in robot-assisted minimally invasive surgery (RMIS). The system enables synchronized collection
+          research in robot-assisted minimally invasive surgery (RMIS). The paper is currently under review at a
+          medical robotics journal. The system enables synchronized collection
           of surgical data without requiring access to proprietary robot telemetry, making it possible to study
           surgical workflows and develop AI-driven assistance systems across multiple robotic platforms.
         </p>
@@ -72,9 +73,25 @@ const projects: Project[] = [
       </div>
     ),
     resources: [
-      { label: "Article", link: "https://arxiv.org/abs/2602.12407" },
-      { label: "Dataset", link: "https://uva-dsa.github.io/MiDAS/" },
-      { label: "GitHub Link", link: "https://github.com/UVA-DSA/MiDAS" },
+      { label: "Paper", link: "https://arxiv.org/abs/2602.12407" },
+      { label: "Project Page", link: "https://uva-dsa.github.io/MiDAS/" },
+      { label: "Code", link: "https://github.com/UVA-DSA/MiDAS" },
+    ],
+  },
+  {
+    image: "/images/projects/CogEMS/CogEMSMain.jpg",
+    title: "EMSDialog: Synthetic Multi-person EMS Dialogue Generation",
+    description: (
+      <div>
+        <p>
+          EMSDialog generates synthetic multi-person emergency medical service dialogues from electronic patient
+          care reports using multi-LLM agents. The paper is accepted to ACL Findings 2026.
+        </p>
+      </div>
+    ),
+    resources: [
+      { label: "Paper", link: "https://uva-dsa.github.io/EMSDialog/" },
+      { label: "Project Page", link: "https://uva-dsa.github.io/EMSDialog/" },
     ],
   },
   {

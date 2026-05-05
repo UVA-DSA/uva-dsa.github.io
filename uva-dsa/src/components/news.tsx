@@ -4,6 +4,28 @@ import type { FC } from 'react';
 
 const newsItems = [
   {
+    title: 'EMSDialog accepted to ACL Findings 2026',
+    description: 'Synthetic multi-person EMS dialogue generation from electronic patient care reports via multi-LLM agents',
+    links: [
+      {
+        title: 'EMSDialog Project Page',
+        url: 'https://uva-dsa.github.io/EMSDialog/',
+      },
+    ],
+    date: 'May 5, 2026',
+  },
+  {
+    title: 'MiDAS paper is under review',
+    description: 'A multimodal data acquisition system and dataset for robot-assisted minimally invasive surgery',
+    links: [
+      {
+        title: 'MiDAS Project Page',
+        url: 'https://uva-dsa.github.io/MiDAS/',
+      },
+    ],
+    date: 'May 5, 2026',
+  },
+  {
     title: 'UVA-DSA has two papers accepted to AAAI-2026',
     description: 'EMSQA in the Main Oral Track and EgoEMS in the Social Impact Track',
     links: [
