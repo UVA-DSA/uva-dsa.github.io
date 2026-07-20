@@ -635,6 +635,20 @@ section.hero .heroTextWelcome {
   color: #666;
   margin: 8px 0 16px 0;
 }
+.publicationCategory {
+  margin-top: 28px;
+}
+.publicationCategory:first-of-type {
+  margin-top: 8px;
+}
+.publicationCategoryTitle {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #232d4b;
+  margin: 0;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e6e8eb;
+}
 .publicationsList {
   list-style: none;
   margin: 16px 0 0 0;

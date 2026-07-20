@@ -1,6 +1,6 @@
 {
   "source": "google-scholar",
-  "generatedAt": "2026-07-20T16:18:30.584Z",
+  "generatedAt": "2026-07-20T17:02:33.559Z",
   "userId": "sXpmLxUAAAAJ",
   "items": [
     {
@@ -8,700 +8,664 @@
       "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
       "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 35081-35110, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HeT0ZceujKMC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HeT0ZceujKMC",
+      "category": "Conferences"
     },
     {
       "title": "Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery",
       "authors": "SHR Roodabeh, Z Li, H Alemzadeh",
       "venue": "arXiv preprint arXiv:2606.23593, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC",
+      "category": "Pre-prints"
     },
     {
       "title": "SAMD: A Tool for Identifying False Data Injection Scenarios in AI/ML-enabled Medical Devices",
       "authors": "M Hallajiyan, X Ge, AP Dharmalingam, G Mitra, S Iqbal, H Alemzadeh, ...",
       "venue": "arXiv preprint arXiv:2605.29210, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yqoGN6RLRZoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yqoGN6RLRZoC",
+      "category": "Pre-prints"
     },
     {
       "title": "Digital Guardians: The Past and The Future of Cyber-Physical Resilience",
       "authors": "S Bagchi, H Kim, T Abdelzaher, H Alemzadeh, S Chaterji, G Chou, ...",
       "venue": "arXiv preprint arXiv:2604.14360, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:r_AWSJRzSzQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:r_AWSJRzSzQC",
+      "category": "Pre-prints"
     },
     {
       "title": "Expert-guided prompting and retrieval-augmented generation for emergency medical service question answering",
       "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (36), 30798 …, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC",
+      "category": "Conferences"
     },
     {
       "title": "Egoems: A high-fidelity multimodal egocentric dataset for cognitive assistance in emergency medical services",
       "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (46), 39432 …, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC",
+      "category": "Conferences"
     },
     {
       "title": "A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery",
       "authors": "Z Zhang, SHR Roodabeh, H Alemzadeh",
       "venue": "arXiv preprint arXiv:2603.06824, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC",
+      "category": "Pre-prints"
     },
     {
       "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery",
       "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
       "venue": "arXiv preprint arXiv:2602.12407, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C",
+      "category": "Pre-prints"
     },
     {
       "title": "Systems-Theoretic and Data-Driven Security Analysis in ML-Enabled Medical Devices",
       "authors": "G Mitra, M Hallajiyan, I Kim, AP Dharmalingam, M Elnawawy, S Iqbal, ...",
       "venue": "International Conference on Cybersecurity in Healthcare, 232-263, 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:DJbcl8HfkQkC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:DJbcl8HfkQkC",
+      "category": "Conferences"
     },
     {
       "title": "Activity-Aware Recovery from Network Communication Loss in Teleoperated Robotic Surgery",
       "authors": "SHR Roodabeh, H Alemzadeh",
       "venue": "TechRxiv, 2025",
       "year": "2025",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC",
+      "category": "Pre-prints"
     },
     {
       "title": "Knowsafe: Combined knowledge and data driven hazard mitigation in artificial pancreas systems",
       "authors": "X Zhou, M Kouzel, C Smith, H Alemzadeh",
       "venue": "IEEE Transactions on Dependable and Secure Computing, 2025",
       "year": "2025",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_axFR9aDTf0C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_axFR9aDTf0C",
+      "category": "Journals"
     },
     {
       "title": "Safety interventions against adversarial patches in an open-source driver assistance system",
       "authors": "C Chen, G Xiao, D Lee, L Yang, E Smirni, H Alemzadeh, X Zhou",
       "venue": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems …, 2025",
       "year": "2025",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:QYdC8u9Cj1oC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:QYdC8u9Cj1oC",
+      "category": "Conferences"
     },
     {
       "title": "Runtime Stealthy Perception Attacks against DNN-based Adaptive Cruise Control Systems",
       "authors": "X Zhou, A Chen, M Kouzel, H Ren, M McCarty, C Nita-Rotaru, ...",
       "venue": "Proceedings of the 20th ACM ASIA Conference on Computer and Communications …, 2025",
       "year": "2025",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ri6SYOTghG4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ri6SYOTghG4C",
+      "category": "Conferences"
     },
     {
       "title": "SAM: Foreseeing Inference-Time False Data Injection Attacks on ML-enabled Medical Devices",
       "authors": "M Hallajiyan, AP Dharmalingam, G Mitra, H Alemzadeh, S Iqbal, ...",
       "venue": "Proceedings of the 2024 Workshop on Cybersecurity in Healthcare, 77-84, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IUKN3-7HHlwC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IUKN3-7HHlwC",
+      "category": "Workshops"
     },
     {
       "title": "Strategic Resilience Evaluation of Neural Networks Within Autonomous Vehicle Software",
       "authors": "A Schmedding, P Schowitz, X Zhou, Y Lu, L Yang, H Alemzadeh, E Smirni",
       "venue": "Lecture Notes in Computer Science 14988, 43rd International Conference on …, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:dBIO0h50nwkC"
-    },
-    {
-      "title": "Collaborative Research: SHF: Medium: End-to-End Resilience in Autonomous Driving Systems: Strategic Vulnerability Assessment and Mitigation",
-      "authors": "H Alemzadeh",
-      "venue": "NSF Award Number 2402941. Directorate for Computer and Information Science …, 2024",
-      "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:mNrWkgRL2YcC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:dBIO0h50nwkC",
+      "category": "Conferences"
     },
     {
       "title": "Camera-independent single image depth estimation from defocus blur",
       "authors": "L Wijayasingha, H Alemzadeh, JA Stankovic",
       "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC",
+      "category": "Conferences"
     },
     {
       "title": "Multimodal Transformers for Real-Time Surgical Activity Prediction",
       "authors": "K Weerasinghe, SHR Roodabeh, K Hutchinson, H Alemzadeh",
       "venue": "IEEE International Conference on Robotics and Automation (ICRA) 2024, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:GtLg2Ama23sC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:GtLg2Ama23sC",
+      "category": "Conferences"
     },
     {
       "title": "Real-Time Multimodal Cognitive Assistant for Emergency Medical Services",
       "authors": "K Weerasinghe, S Janapati, X Ge, S Kim, S Iyer, JA Stankovic, ...",
       "venue": "9th ACM/IEEE Conference on Internet of Things Design and Implementation …, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9pM33mqn1YgC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9pM33mqn1YgC",
+      "category": "Conferences"
     },
     {
       "title": "DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction",
       "authors": "X Ge, RD Williams, JA Stankovic, H Alemzadeh",
       "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …, 2024",
       "year": "2024",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PVjk1bu6vJQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PVjk1bu6vJQC",
+      "category": "Conferences"
     },
     {
       "title": "COMPASS: a formal framework and aggregate dataset for generalized surgical procedure modeling",
       "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
       "venue": "International Journal of Computer Assisted Radiology and Surgery 18 (12 …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC",
+      "category": "Journals"
     },
     {
       "title": "Towards Interpretable Motion-level Skill Assessment in Robotic Surgery",
       "authors": "K Hutchinson, K Chen, H Alemzadeh",
       "venue": "arXiv preprint arXiv:2311.05838, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:86PQX7AUzd4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:86PQX7AUzd4C",
+      "category": "Pre-prints"
     },
     {
       "title": "Robotic scene segmentation with memory network for runtime surgical context inference",
       "authors": "Z Li, I Reyes, H Alemzadeh",
       "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ClCfbGk0d_YC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ClCfbGk0d_YC",
+      "category": "Conferences"
     },
     {
       "title": "Evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data",
       "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
       "venue": "IEEE Robotics and Automation Letters 8 (8), 5132-5139, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:q3CdL3IzO_QC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:q3CdL3IzO_QC",
+      "category": "Journals"
     },
     {
       "title": "EMS-BERT: a pre-trained language representation model for the emergency medical services (EMS) domain",
       "authors": "MA Rahman, SM Preum, RD Williams, H Alemzadeh, J Stankovic",
       "venue": "Proceedings of the 8th ACM/IEEE International Conference on Connected Health …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:foquWX3nUaYC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:foquWX3nUaYC",
+      "category": "Conferences"
     },
     {
       "title": "emsreact: A real-time interactive cognitive assistant for cardiac arrest training in emergency medical services",
       "authors": "MA Rahman, L Jia, E Mirza, SM Preum, H Alemzadeh, RD Williams, ...",
       "venue": "2023 19th International Conference on Distributed Computing in Smart Systems …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HbR8gkJAVGIC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HbR8gkJAVGIC",
+      "category": "Conferences"
     },
     {
       "title": "Senseems-towards a hand activity recognition and monitoring system for emergency medical services",
       "authors": "MA Rahman, K Weerasinghe, L Wijayasingha, H Alemzadeh, ...",
       "venue": "Proceedings of the 22nd International Conference on Information Processing …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:xtoqd-5pKcoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:xtoqd-5pKcoC",
+      "category": "Conferences"
     },
     {
       "title": "Towards Surgical Context Inference and Translation to Gestures",
       "authors": "K Hutchinson, Z Li, I Reyes, H Alemzadeh",
       "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PoWvk5oyLR8C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PoWvk5oyLR8C",
+      "category": "Conferences"
     },
     {
       "title": "Short: Basal-Adjust: Trend Prediction Alerts and Adjusted Basal Rates for Hyperglycemia Prevention",
       "authors": "C Smith, M Kouzel, X Zhou, H Alemzadeh",
       "venue": "2023 IEEE/ACM International Conference on Connected Health: Applications …, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Dip1O2bNi0gC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Dip1O2bNi0gC",
+      "category": "Conferences"
     },
     {
       "title": "Hybrid knowledge and data driven synthesis of runtime monitors for cyber-physical systems",
       "authors": "X Zhou, B Ahmed, JH Aylor, P Asare, H Alemzadeh",
       "venue": "IEEE Transactions on Dependable and Secure Computing 21 (1), 12-30, 2023",
       "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bz8QjSJIRt4C"
-    },
-    {
-      "title": "Message from the DSML 2023 Organizers",
-      "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, D Evans, N Papernot, ...",
-      "venue": "Proceedings-53rd Annual IEEE/IFIP International Conference on Dependable …, 2023",
-      "year": "2023",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:hCrLmN-GePgC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bz8QjSJIRt4C",
+      "category": "Journals"
     },
     {
       "title": "Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems",
       "authors": "M Bagheri, J Lamp, X Zhou, L Feng, H Alemzadeh",
       "venue": "SafeAI: The AAAI’s Workshop on Artificial Intelligence Safety, Feb 13–14, 2023, 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:e_rmSamDkqQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:e_rmSamDkqQC",
+      "category": "Workshops"
     },
     {
       "title": "Design and validation of an open-source closed-loop testbed for artificial pancreas systems",
       "authors": "X Zhou, M Kouzel, H Ren, H Alemzadeh",
       "venue": "2022 IEEE/ACM Conference on Connected Health: Applications, Systems and …, 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WZBGuue-350C"
-    },
-    {
-      "title": "NSF Student Travel Grant for the 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)",
-      "authors": "H Alemzadeh",
-      "venue": "NSF Award Number 2226198. Directorate for Computer and Information Science …, 2022",
-      "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4vMrXwiscB8C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WZBGuue-350C",
+      "category": "Conferences"
     },
     {
       "title": "Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems",
       "authors": "X Zhou, M Kouzel, H Alemzadeh",
       "venue": "2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems …, 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VaXvl8Fpj5cC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VaXvl8Fpj5cC",
+      "category": "Conferences"
     },
     {
       "title": "Strategic safety-critical attacks against an advanced driver assistance system",
       "authors": "X Zhou, A Schmedding, H Ren, L Yang, P Schowitz, E Smirni, ...",
       "venue": "2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems …, 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:lmc2jWPfTJgC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:lmc2jWPfTJgC",
+      "category": "Conferences"
     },
     {
       "title": "Runtime Detection of Executional Errors in Robot-Assisted Surgery",
       "authors": "Z Li, K Hutchinson, H Alemzadeh",
       "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:MLfJN-KU85MC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:MLfJN-KU85MC",
+      "category": "Conferences"
     },
     {
       "title": "Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments",
       "authors": "K Hutchinson, Z Li, LA Cantrell, NS Schenkman, H Alemzadeh",
       "venue": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2022",
       "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:g3aElNc5_aQC"
-    },
-    {
-      "title": "CAREER: Context-Aware Runtime Safety Assurance in Medical Human-Cyber-Physical Systems",
-      "authors": "H Alemzadeh",
-      "venue": "NSF Award Number 2146295. Directorate for Computer and Information Science …, 2022",
-      "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HIFyuExEbWQC"
-    },
-    {
-      "title": "Embedded sensor chips in polymer-based coatings",
-      "authors": "A Afzali-Ardakani, H Alemzadeh, M Ashoori, B Hekmatshoartabari, ...",
-      "venue": "US Patent 11,256,883, 2022",
-      "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uc_IGeMz5qoC"
-    },
-    {
-      "title": "Fifth International Workshop on Dependable and Secure Machine Learning–DSML 2022",
-      "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, N Papernot, ...",
-      "venue": "Proceedings-52nd Annual IEEE/IFIP International Conference on Dependable …, 2022",
-      "year": "2022",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:oNZyr7d5Mn4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:g3aElNc5_aQC",
+      "category": "Journals"
     },
     {
       "title": "Information Extraction from Patient Care Reports for Intelligent Emergency Medical Services",
       "authors": "S Kim, W Guo, R Williams, J Stankovic, H Alemzadeh",
       "venue": "2021 IEEE/ACM Conference on Connected Health: Applications, Systems and …, 2021",
       "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:TIZ-Mc8IlK0C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:TIZ-Mc8IlK0C",
+      "category": "Conferences"
     },
     {
       "title": "Challenges and Directions for Ambient Intelligence: A Cyber Physical Systems Perspective",
       "authors": "JA Stankovic, M Ma, SM Preum, H Alemzadeh",
       "venue": "2021 IEEE Third International Conference on Cognitive Machine Intelligence …, 2021",
       "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:gsN89kCJA0AC"
-    },
-    {
-      "title": "Fourth International Workshop on Dependable and Secure Machine Learning–DSML 2021",
-      "authors": "H Xu, G Li, H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, ...",
-      "venue": "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems …, 2021",
-      "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KUbvn5osdkgC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:gsN89kCJA0AC",
+      "category": "Conferences"
     },
     {
       "title": "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems",
       "authors": "X Zhou, B Ahmed, JH Aylor, P Asare, H Alemzadeh",
       "venue": "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems …, 2021",
       "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:L7CI7m0gUJcC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:L7CI7m0gUJcC",
+      "category": "Conferences"
     },
     {
       "title": "On parallel real-time security improvement using mixed-integer programming",
       "authors": "HMJ Almohri, LT Watson, H Alemzadeh, M Almutawa",
       "venue": "IEEE Access 9, 58824-58837, 2021",
       "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ILKRHgRFtOwC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ILKRHgRFtOwC",
+      "category": "Journals"
     },
     {
       "title": "A review of cognitive assistants for healthcare: Trends, prospects, and future directions",
       "authors": "SM Preum, S Munir, M Ma, MS Yasar, DJ Stone, R Williams, H Alemzadeh, ...",
       "venue": "ACM Computing Surveys (CSUR) 53 (6), 1-37, 2021",
       "year": "2021",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4MWp96NkSFoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4MWp96NkSFoC",
+      "category": "Journals"
     },
     {
       "title": "A Graduate Curriculum in Cyber-Physical Systems",
       "authors": "JA Stankovic, H Alemzadeh, B Campbell, J Lach, L Feng, C Fleming, ...",
       "venue": "IEEE Design & Test 38 (3), 112-120, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EYYDruWGBe4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EYYDruWGBe4C",
+      "category": "Journals"
     },
     {
       "title": "A reactive autonomous camera system for the RAVEN II surgical robot",
       "authors": "K Hutchinson, MS Yasar, H Bhatia, H Alemzadeh",
       "venue": "2020 International Symposium on Medical Robotics (ISMR), 195-201, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ML0RJ9NH7IQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ML0RJ9NH7IQC",
+      "category": "Conferences"
     },
     {
       "title": "IMACS - an interactive cognitive assistant module for cardiac arrest cases in emergency medical service: demo abstract",
       "authors": "MA Rahman, S Preum, JA Stankovic, L Jia, E Mirza, R Williams, ...",
       "venue": "Proceedings of the 18th Conference on Embedded Networked Sensor Systems, 621-622, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:p__nRnzSRKYC"
-    },
-    {
-      "title": "Third International Workshop on Dependable and Secure Machine Learning–DSML 2020",
-      "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, N Papernot, ...",
-      "venue": "2020 50th Annual IEEE/IFIP International Conference on Dependable Systems …, 2020",
-      "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Z5m8FVwuT1cC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:p__nRnzSRKYC",
+      "category": "Conferences"
     },
     {
       "title": "Real-Time Context-aware Detection of Unsafe Events in Robot-Assisted Surgery",
       "authors": "MS Yasar, H Alemzadeh",
       "venue": "2020 50th Annual IEEE/IFIP International Conference on Dependable Systems …, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:URolC5Kub84C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:URolC5Kub84C",
+      "category": "Conferences"
     },
     {
       "title": "Emscontext: EMS protocol-driven concept extraction for cognitive assistance in emergency response",
       "authors": "SM Preum, S Shu, H Alemzadeh, JA Stankovic",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (08), 13350 …, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EkHepimYqZsC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EkHepimYqZsC",
+      "category": "Conferences"
     },
     {
       "title": "GRACE: generating summary reports automatically for cognitive assistance in emergency response",
       "authors": "MA Rahman, SM Preum, R Williams, H Alemzadeh, JA Stankovic",
       "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (08), 13356 …, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ipzZ9siozwsC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ipzZ9siozwsC",
+      "category": "Conferences"
     },
     {
       "title": "Challenges and opportunities in the detection of safety-critical cyberphysical attacks",
       "authors": "H Lin, H Alemzadeh, Z Kalbarczyk, R Iyer",
       "venue": "Computer 53 (3), 26-37, 2020",
       "year": "2020",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uWiczbcajpAC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uWiczbcajpAC",
+      "category": "Journals"
     },
     {
       "title": "A Behavior Tree Cognitive Assistant System for Emergency Medical Services",
       "authors": "S Shu, S Preum, HM Pitchford, RD Williams, J Stankovic, H Alemzadeh",
       "venue": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",
       "year": "2019",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:0KyAp5RtaNEC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:0KyAp5RtaNEC",
+      "category": "Conferences"
     },
     {
       "title": "Analysis of Cyber-Security Vulnerabilities of Interconnected Medical Devices",
       "authors": "Y Xu, D Tran, Y Tian, H Alemzadeh",
       "venue": "2019 IEEE/ACM International Conference on Connected Health: Applications …, 2019",
       "year": "2019",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yB1At4FlUx8C"
-    },
-    {
-      "title": "NSF Student Travel Grant for the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019)",
-      "authors": "H Alemzadeh",
-      "venue": "NSF Award Number 1928306. Directorate for Computer and Information Science …, 2019",
-      "year": "2019",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:cWzG1nlazyYC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yB1At4FlUx8C",
+      "category": "Conferences"
     },
     {
       "title": "Context-aware Monitoring in Robotic Surgery",
       "authors": "MS Yasar, D Evans, H Alemzadeh",
       "venue": "2019 International Symposium on Medical Robotics (ISMR), 2019",
       "year": "2019",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:j8SEvjWlNXcC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:j8SEvjWlNXcC",
+      "category": "Conferences"
     },
     {
       "title": "Experimental Resilience Assessment of An Open-Source Driving Agent",
       "authors": "AHM Rubaiyat, Y Qin, H Alemzadeh",
       "venue": "23rd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC …, 2018",
       "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Re3VWB3Y0AC"
-    },
-    {
-      "title": "DSML 2018 Introduction",
-      "authors": "H Alemzadeh, K Pattabiraman, DE Evans",
-      "venue": "2018 48th Annual IEEE/IFIP International Conference on Dependable Systems …, 2018",
-      "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:tzM49s52ZIMC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Re3VWB3Y0AC",
+      "category": "Conferences"
     },
     {
       "title": "Towards a cognitive assistant system for emergency response",
       "authors": "SM Preum, S Shu, J Ting, V Lin, R Williams, J Stankovic, H Alemzadeh",
       "venue": "2018 ACM/IEEE 9th International Conference on Cyber-Physical Systems (ICCPS …, 2018",
       "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:kzcrU_BdoSEC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:kzcrU_BdoSEC",
+      "category": "Conferences"
     },
     {
       "title": "An Integrative Approach to Embedded Systems Courseware Submission Type: Work in Progress",
       "authors": "H Powell, T DeLong, H Alemzadeh",
       "venue": "2019 ASEE Southeastern Section Conference, 2018",
       "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:t7zJ5fGR-2UC"
-    },
-    {
-      "title": "Message from the WoSoCer 2018 Workshop Chairs",
-      "authors": "H Alemzadeh, B Gallina, R Natella, K Netkachova, R Pietrantuono, ...",
-      "venue": "",
-      "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:fEOibwPWpKIC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:t7zJ5fGR-2UC",
+      "category": "Conferences"
     },
     {
       "title": "Model Fusion: Weighted N-Version Programming for Resilient Autonomous Vehicle Steering Control",
       "authors": "A Wu, AHM Rubaiyat, C Anton, H Alemzadeh",
       "venue": "2018 IEEE International Symposium on Software Reliability Engineering …, 2018",
       "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:2KloaMYe4IUC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:2KloaMYe4IUC",
+      "category": "Conferences"
     },
     {
       "title": "CognitiveEMS: A Cognitive Assistant System for Emergency Medical Services",
       "authors": "S Preum, S Shu, M Hotaki, R Williams, J Stankovic, H Alemzadeh",
       "venue": "SIGBED Review, Special Issue on Medical Cyber Physical Systems Workshop (CPS …, 2018",
       "year": "2018",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZfRJV9d4-WMC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZfRJV9d4-WMC",
+      "category": "Workshops"
     },
     {
       "title": "On the safety of machine learning: Cyber-physical systems, decision sciences, and data products",
       "authors": "KR Varshney, H Alemzadeh",
       "venue": "Big data 5 (3), 246-255, 2017",
       "year": "2017",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eq2jaN3J8jMC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eq2jaN3J8jMC",
+      "category": "Journals"
     },
     {
       "title": "On threat modeling and mitigation of medical cyber-physical systems",
       "authors": "H Almohri, L Cheng, D Yao, H Alemzadeh",
       "venue": "2017 IEEE/ACM International Conference on Connected Health: Applications …, 2017",
       "year": "2017",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:JQOojiI6XY0C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:JQOojiI6XY0C",
+      "category": "Conferences"
     },
     {
       "title": "An NLP-based cognitive system for disease status identification in electronic health records",
       "authors": "H Alemzadeh, M Devarakonda",
       "venue": "2017 IEEE EMBS International Conference on Biomedical & Health Informatics …, 2017",
       "year": "2017",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PR6Y55bgFSsC"
-    },
-    {
-      "title": "Message from the WoSoCer workshop organizers",
-      "authors": "H Alemzadeh, R Barbosa, F Brancati, B Gallina, M Lawford, R Natella, ...",
-      "venue": "28th IEEE International Symposium on Software Reliability Engineering …, 2017",
-      "year": "2017",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Ybze24A_UAC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PR6Y55bgFSsC",
+      "category": "Conferences"
     },
     {
       "title": "Surgeon Training in Telerobotic Surgery via a Hardware‐in‐the‐Loop Simulator",
       "authors": "X Li, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, T Kesavadas",
       "venue": "Journal of Healthcare Engineering 2017 (1), 6702919, 2017",
       "year": "2017",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:UHK10RUVsp4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:UHK10RUVsp4C",
+      "category": "Journals"
     },
     {
       "title": "A hardware-in-the-loop simulator for safety training in robotic surgery",
       "authors": "X Li, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, T Kesavadas",
       "venue": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016",
       "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ye4kPcJQO24C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ye4kPcJQO24C",
+      "category": "Conferences"
     },
     {
       "title": "Adverse events in robotic surgery: a retrospective study of 14 years of FDA data",
       "authors": "H Alemzadeh, J Raman, N Leveson, Z Kalbarczyk, RK Iyer",
       "venue": "PloS one 11 (4), e0151470, 2016",
       "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:z_wVstp3MssC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:z_wVstp3MssC",
+      "category": "Journals"
     },
     {
       "title": "Data-driven resiliency assessment of medical cyber-physical systems",
       "authors": "H Alemzadeh",
       "venue": "University of Illinois at Urbana-Champaign, 2016",
       "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WqliGbK-hY8C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WqliGbK-hY8C",
+      "category": "Dissertations"
     },
     {
       "title": "Safety-critical cyber-physical attacks: Analysis, detection, and mitigation",
       "authors": "H Lin, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer",
       "venue": "Proceedings of the Symposium and Bootcamp on the Science of Security, 82-89, 2016",
       "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_B80troHkn4C"
-    },
-    {
-      "title": "Message from the WoSoCer 2016 Chairs",
-      "authors": "H Alemzadeh, M Lawford, R Natella",
-      "venue": "",
-      "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZuybSZzF8UAC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_B80troHkn4C",
+      "category": "Conferences"
     },
     {
       "title": "Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-based Detection and Mitigation",
       "authors": "H Alemzadeh, D Chen, X Li, T Kesavadas, ZT Kalbarczyk, RK Iyer",
       "venue": "Proceedings of the 46th IEEE/IFIP International Conference on Dependable …, 2016",
       "year": "2016",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:AXPGKjj_ei8C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:AXPGKjj_ei8C",
+      "category": "Conferences"
     },
     {
       "title": "A Fault-Tolerant Hardware Architecture for Robust Wearable Heart Rate Monitoring",
       "authors": "Q Li, H Alemzadeh, Z Kalbarczyk, RK Iyer",
       "venue": "The 9th International Conference on Pervasive Computing Technologies for …, 2015",
       "year": "2015",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:1qzjygNMrQYC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:1qzjygNMrQYC",
+      "category": "Conferences"
     },
     {
       "title": "A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems",
       "authors": "H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, X Li, T Kesavadas, ...",
       "venue": "Medical Cyber Physical Systems Workshop 2015, 2015",
       "year": "2015",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:J-pR_7NvFogC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:J-pR_7NvFogC",
+      "category": "Workshops"
     },
     {
       "title": "Simulation-based training for safety incidents: lessons from analysis of adverse events in robotic surgical systems",
       "authors": "H Alemzadeh, Z Kalbarczyk, RK Iyer, T Kesavadas, S Small, J Raman",
       "venue": "American College of Surgeons' 8th Annual Meeting of the Consortium of ACS …, 2015",
       "year": "2015",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VL0QpB8kHFEC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VL0QpB8kHFEC",
+      "category": "Conferences"
     },
     {
       "title": "Jaishankar Raman, Nancy Leveson, and Ravishankar Iyer. Systems-theoretic safety assessment of robotic telesurgical systems",
       "authors": "H Alemzadeh, D Chen, A Lewis, Z Kalbarczyk",
       "venue": "34th International Conference on Computer Safety, Reliability, and Security …, 2015",
       "year": "2015",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:LhH-TYMQEocC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:LhH-TYMQEocC",
+      "category": "Conferences"
     },
     {
       "title": "Systems-theoretic Safety Assessment of Robotic Telesurgical Systems",
       "authors": "H Alemzadeh, D Chen, A Lewis, Z Kalbarczyk, J Raman, N Leveson, ...",
       "venue": "34th International Conference on Computer Safety, Reliability, and Security …, 2015",
       "year": "2015",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:wbdj-CoPYUoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:wbdj-CoPYUoC",
+      "category": "Conferences"
     },
     {
       "title": "Automated classification of computer-based medical device recalls: an application of natural language processing and statistical learning",
       "authors": "H Alemzadeh, R Hoagland, Z Kalbarczyk, RK Iyer",
       "venue": "2014 IEEE 27th International Symposium on Computer-Based Medical Systems …, 2014",
       "year": "2014",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:V3AGJWp-ZtQC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:V3AGJWp-ZtQC",
+      "category": "Conferences"
     },
     {
       "title": "Analysis of safety-critical computer failures in medical devices",
       "authors": "H Alemzadeh, RK Iyer, Z Kalbarczyk, J Raman",
       "venue": "IEEE Security & Privacy 11 (4), 14-26, 2013",
       "year": "2013",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ufrVoPGSRksC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ufrVoPGSRksC",
+      "category": "Journals"
     },
     {
       "title": "Safety implications of robotic surgery: A study of 13 years of FDA data on da Vinci surgical systems",
       "authors": "H Alemzadeh, J Raman, N Leveson, RK Iyer",
       "venue": "Coordinated Science Laboratory Report no. UILU-ENG-13-2208, 2013",
       "year": "2013",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XiVPGOgt02cC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XiVPGOgt02cC",
+      "category": "Pre-prints"
     },
     {
       "title": "Towards resiliency in embedded medical monitoring devices",
       "authors": "H Alemzadeh, C Di Martino, Z Jin, ZT Kalbarczyk, RK Iyer",
       "venue": "Dependable Systems and Networks Workshops (DSN-W), 2012 IEEE/IFIP 42nd …, 2012",
       "year": "2012",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eQOLeE2rZwMC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eQOLeE2rZwMC",
+      "category": "Workshops"
     },
     {
       "title": "An embedded reconfigurable architecture for patient-specific multi-paramater medical monitoring",
       "authors": "H Alemzadeh, Z Jin, Z Kalbarczyk, RK Iyer",
       "venue": "2011 Annual International Conference of the IEEE Engineering in Medicine and …, 2011",
       "year": "2011",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:YsMSGLbcyi4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:YsMSGLbcyi4C",
+      "category": "Conferences"
     },
     {
       "title": "RMED: A reconfigurable architecture for embedded medical monitoring",
       "authors": "H Alemzadeh, MU Saleheen, Z Jin, Z Kalbarczyk, RK Iyer",
       "venue": "2011 IEEE/NIH Life Science Systems and Applications Workshop (LiSSA), 112-115, 2011",
       "year": "2011",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Y0pCki6q_DkC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Y0pCki6q_DkC",
+      "category": "Workshops"
     },
     {
       "title": "An efficient embedded hardware for high accuracy detection of epileptic seizures",
       "authors": "MU Saleheen, H Alemzadeh, AM Cheriyan, Z Kalbarczyk, RK Iyer",
       "venue": "2010 3rd International Conference on Biomedical Engineering and Informatics …, 2010",
       "year": "2010",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Tyk-4Ss8FVUC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Tyk-4Ss8FVUC",
+      "category": "Conferences"
     },
     {
       "title": "Facilitating testability of TLM FIFO: SystemC implementations",
       "authors": "H Alemzadeh, M Cimei, P Prinetto, Z Navabi",
       "venue": "2010 East-West Design & Test Symposium (EWDTS), 428-431, 2010",
       "year": "2010",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IjCSPb-OGe4C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IjCSPb-OGe4C",
+      "category": "Conferences"
     },
     {
       "title": "Code optimization for enhancing SystemC simulation time",
       "authors": "H Alemzadeh, S Aminzadeh, R Saberi, Z Navabi",
       "venue": "2010 East-West Design & Test Symposium (EWDTS), 431-434, 2010",
       "year": "2010",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9yKSN-GCB0IC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9yKSN-GCB0IC",
+      "category": "Conferences"
     },
     {
       "title": "Functional Testing Approaches for “BIFST-able” tlm_fifo",
       "authors": "H Alemzadeh, Z Navabi, S Di Carlo, A Scionti, P Prinetto",
       "venue": "2008 IEEE International High Level Design Validation and Test Workshop, 85-92, 2008",
       "year": "2008",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:qjMakFHDy7sC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:qjMakFHDy7sC",
+      "category": "Workshops"
     },
     {
       "title": "Plug & Test at system level via testable TLM primitives",
       "authors": "H Alemzadeh, S Di Carlo, F Refan, P Prinetto, Z Navabi",
       "venue": "Test Conference, 2008. ITC 2008. IEEE International, 1-10, 2008",
       "year": "2008",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WF5omc3nYNoC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WF5omc3nYNoC",
+      "category": "Conferences"
     },
     {
       "title": "Application specific configuration of a fault-tolerant NoC architecture",
       "authors": "F Refan, P Kabiri, H Alemzadeh, P Prinetto, Z Navabi",
       "venue": "2008 11th International Biennial Baltic Electronics Conference, 179-182, 2008",
       "year": "2008",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:d1gkVwhDpl0C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:d1gkVwhDpl0C",
+      "category": "Conferences"
     },
     {
       "title": "Reliability in application specific mesh-based NoC architectures",
       "authors": "F Refan, H Alemzadeh, S Safari, P Prinetto, Z Navabi",
       "venue": "2008 14th IEEE International On-Line Testing Symposium, 207-212, 2008",
       "year": "2008",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:u5HHmVD_uO8C"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:u5HHmVD_uO8C",
+      "category": "Conferences"
     },
     {
       "title": "High-level Analysis for Reconfiguration of a Fault Tolerant Mesh-based NoC Architecture Using Transaction Level Modeling",
       "authors": "H Alemzadeh, F Refan, P Prinetto, Z Navabi",
       "venue": "The 5th IEEE EAST-WEST DESIGN & TEST INTERNATIONAL SYMPOSIUM (EWDTS’07), 2007",
       "year": "2007",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_FxGoFyzp5QC"
-    },
-    {
-      "title": "Test of Time Award",
-      "authors": "H Alemzadeh, D Chen, X Li, T Kesavadas, ZT Kalbarczyk",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:F9fV5C73w3QC"
-    },
-    {
-      "title": "DSML Organization",
-      "authors": "X Zhou, Y Huang, H Alemzadeh, R Bobba, V Chandrasekaran, D Evans, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ODE9OILHJdcC"
-    },
-    {
-      "title": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)| 979-8-3315-1201-9/25/$31.00© 2025 IEEE| DOI: 10.1109/DSN64029. 2025.00073",
-      "authors": "A Adebayo, MR Ahmed, S Ainsworth, K Akkaya, H Alemzadeh, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bKqednn6t2AC"
-    },
-    {
-      "title": "Research Track Program Committee",
-      "authors": "A Mostefaoui, A Bondavalli, A Schmidt, A Keromytis, A Stavrou, A Remke, ...",
-      "venue": "",
-      "year": "",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XvxMoLDsR5gC"
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_FxGoFyzp5QC",
+      "category": "Conferences"
     }
   ],
   "byYear": {
@@ -711,7 +675,8 @@
         "authors": "H Alemzadeh, F Refan, P Prinetto, Z Navabi",
         "venue": "The 5th IEEE EAST-WEST DESIGN & TEST INTERNATIONAL SYMPOSIUM (EWDTS’07), 2007",
         "year": "2007",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_FxGoFyzp5QC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_FxGoFyzp5QC",
+        "category": "Conferences"
       }
     ],
     "2008": [
@@ -720,28 +685,32 @@
         "authors": "H Alemzadeh, Z Navabi, S Di Carlo, A Scionti, P Prinetto",
         "venue": "2008 IEEE International High Level Design Validation and Test Workshop, 85-92, 2008",
         "year": "2008",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:qjMakFHDy7sC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:qjMakFHDy7sC",
+        "category": "Workshops"
       },
       {
         "title": "Plug & Test at system level via testable TLM primitives",
         "authors": "H Alemzadeh, S Di Carlo, F Refan, P Prinetto, Z Navabi",
         "venue": "Test Conference, 2008. ITC 2008. IEEE International, 1-10, 2008",
         "year": "2008",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WF5omc3nYNoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WF5omc3nYNoC",
+        "category": "Conferences"
       },
       {
         "title": "Application specific configuration of a fault-tolerant NoC architecture",
         "authors": "F Refan, P Kabiri, H Alemzadeh, P Prinetto, Z Navabi",
         "venue": "2008 11th International Biennial Baltic Electronics Conference, 179-182, 2008",
         "year": "2008",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:d1gkVwhDpl0C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:d1gkVwhDpl0C",
+        "category": "Conferences"
       },
       {
         "title": "Reliability in application specific mesh-based NoC architectures",
         "authors": "F Refan, H Alemzadeh, S Safari, P Prinetto, Z Navabi",
         "venue": "2008 14th IEEE International On-Line Testing Symposium, 207-212, 2008",
         "year": "2008",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:u5HHmVD_uO8C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:u5HHmVD_uO8C",
+        "category": "Conferences"
       }
     ],
     "2010": [
@@ -750,21 +719,24 @@
         "authors": "MU Saleheen, H Alemzadeh, AM Cheriyan, Z Kalbarczyk, RK Iyer",
         "venue": "2010 3rd International Conference on Biomedical Engineering and Informatics …, 2010",
         "year": "2010",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Tyk-4Ss8FVUC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Tyk-4Ss8FVUC",
+        "category": "Conferences"
       },
       {
         "title": "Facilitating testability of TLM FIFO: SystemC implementations",
         "authors": "H Alemzadeh, M Cimei, P Prinetto, Z Navabi",
         "venue": "2010 East-West Design & Test Symposium (EWDTS), 428-431, 2010",
         "year": "2010",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IjCSPb-OGe4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IjCSPb-OGe4C",
+        "category": "Conferences"
       },
       {
         "title": "Code optimization for enhancing SystemC simulation time",
         "authors": "H Alemzadeh, S Aminzadeh, R Saberi, Z Navabi",
         "venue": "2010 East-West Design & Test Symposium (EWDTS), 431-434, 2010",
         "year": "2010",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9yKSN-GCB0IC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9yKSN-GCB0IC",
+        "category": "Conferences"
       }
     ],
     "2011": [
@@ -773,14 +745,16 @@
         "authors": "H Alemzadeh, Z Jin, Z Kalbarczyk, RK Iyer",
         "venue": "2011 Annual International Conference of the IEEE Engineering in Medicine and …, 2011",
         "year": "2011",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:YsMSGLbcyi4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:YsMSGLbcyi4C",
+        "category": "Conferences"
       },
       {
         "title": "RMED: A reconfigurable architecture for embedded medical monitoring",
         "authors": "H Alemzadeh, MU Saleheen, Z Jin, Z Kalbarczyk, RK Iyer",
         "venue": "2011 IEEE/NIH Life Science Systems and Applications Workshop (LiSSA), 112-115, 2011",
         "year": "2011",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Y0pCki6q_DkC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Y0pCki6q_DkC",
+        "category": "Workshops"
       }
     ],
     "2012": [
@@ -789,7 +763,8 @@
         "authors": "H Alemzadeh, C Di Martino, Z Jin, ZT Kalbarczyk, RK Iyer",
         "venue": "Dependable Systems and Networks Workshops (DSN-W), 2012 IEEE/IFIP 42nd …, 2012",
         "year": "2012",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eQOLeE2rZwMC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eQOLeE2rZwMC",
+        "category": "Workshops"
       }
     ],
     "2013": [
@@ -798,14 +773,16 @@
         "authors": "H Alemzadeh, RK Iyer, Z Kalbarczyk, J Raman",
         "venue": "IEEE Security & Privacy 11 (4), 14-26, 2013",
         "year": "2013",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ufrVoPGSRksC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ufrVoPGSRksC",
+        "category": "Journals"
       },
       {
         "title": "Safety implications of robotic surgery: A study of 13 years of FDA data on da Vinci surgical systems",
         "authors": "H Alemzadeh, J Raman, N Leveson, RK Iyer",
         "venue": "Coordinated Science Laboratory Report no. UILU-ENG-13-2208, 2013",
         "year": "2013",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XiVPGOgt02cC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XiVPGOgt02cC",
+        "category": "Pre-prints"
       }
     ],
     "2014": [
@@ -814,7 +791,8 @@
         "authors": "H Alemzadeh, R Hoagland, Z Kalbarczyk, RK Iyer",
         "venue": "2014 IEEE 27th International Symposium on Computer-Based Medical Systems …, 2014",
         "year": "2014",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:V3AGJWp-ZtQC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:V3AGJWp-ZtQC",
+        "category": "Conferences"
       }
     ],
     "2015": [
@@ -823,35 +801,40 @@
         "authors": "Q Li, H Alemzadeh, Z Kalbarczyk, RK Iyer",
         "venue": "The 9th International Conference on Pervasive Computing Technologies for …, 2015",
         "year": "2015",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:1qzjygNMrQYC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:1qzjygNMrQYC",
+        "category": "Conferences"
       },
       {
         "title": "A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems",
         "authors": "H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, X Li, T Kesavadas, ...",
         "venue": "Medical Cyber Physical Systems Workshop 2015, 2015",
         "year": "2015",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:J-pR_7NvFogC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:J-pR_7NvFogC",
+        "category": "Workshops"
       },
       {
         "title": "Simulation-based training for safety incidents: lessons from analysis of adverse events in robotic surgical systems",
         "authors": "H Alemzadeh, Z Kalbarczyk, RK Iyer, T Kesavadas, S Small, J Raman",
         "venue": "American College of Surgeons' 8th Annual Meeting of the Consortium of ACS …, 2015",
         "year": "2015",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VL0QpB8kHFEC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VL0QpB8kHFEC",
+        "category": "Conferences"
       },
       {
         "title": "Jaishankar Raman, Nancy Leveson, and Ravishankar Iyer. Systems-theoretic safety assessment of robotic telesurgical systems",
         "authors": "H Alemzadeh, D Chen, A Lewis, Z Kalbarczyk",
         "venue": "34th International Conference on Computer Safety, Reliability, and Security …, 2015",
         "year": "2015",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:LhH-TYMQEocC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:LhH-TYMQEocC",
+        "category": "Conferences"
       },
       {
         "title": "Systems-theoretic Safety Assessment of Robotic Telesurgical Systems",
         "authors": "H Alemzadeh, D Chen, A Lewis, Z Kalbarczyk, J Raman, N Leveson, ...",
         "venue": "34th International Conference on Computer Safety, Reliability, and Security …, 2015",
         "year": "2015",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:wbdj-CoPYUoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:wbdj-CoPYUoC",
+        "category": "Conferences"
       }
     ],
     "2016": [
@@ -860,42 +843,40 @@
         "authors": "X Li, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, T Kesavadas",
         "venue": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016",
         "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ye4kPcJQO24C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ye4kPcJQO24C",
+        "category": "Conferences"
       },
       {
         "title": "Adverse events in robotic surgery: a retrospective study of 14 years of FDA data",
         "authors": "H Alemzadeh, J Raman, N Leveson, Z Kalbarczyk, RK Iyer",
         "venue": "PloS one 11 (4), e0151470, 2016",
         "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:z_wVstp3MssC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:z_wVstp3MssC",
+        "category": "Journals"
       },
       {
         "title": "Data-driven resiliency assessment of medical cyber-physical systems",
         "authors": "H Alemzadeh",
         "venue": "University of Illinois at Urbana-Champaign, 2016",
         "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WqliGbK-hY8C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WqliGbK-hY8C",
+        "category": "Dissertations"
       },
       {
         "title": "Safety-critical cyber-physical attacks: Analysis, detection, and mitigation",
         "authors": "H Lin, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer",
         "venue": "Proceedings of the Symposium and Bootcamp on the Science of Security, 82-89, 2016",
         "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_B80troHkn4C"
-      },
-      {
-        "title": "Message from the WoSoCer 2016 Chairs",
-        "authors": "H Alemzadeh, M Lawford, R Natella",
-        "venue": "",
-        "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZuybSZzF8UAC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_B80troHkn4C",
+        "category": "Conferences"
       },
       {
         "title": "Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-based Detection and Mitigation",
         "authors": "H Alemzadeh, D Chen, X Li, T Kesavadas, ZT Kalbarczyk, RK Iyer",
         "venue": "Proceedings of the 46th IEEE/IFIP International Conference on Dependable …, 2016",
         "year": "2016",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:AXPGKjj_ei8C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:AXPGKjj_ei8C",
+        "category": "Conferences"
       }
     ],
     "2017": [
@@ -904,35 +885,32 @@
         "authors": "KR Varshney, H Alemzadeh",
         "venue": "Big data 5 (3), 246-255, 2017",
         "year": "2017",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eq2jaN3J8jMC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:eq2jaN3J8jMC",
+        "category": "Journals"
       },
       {
         "title": "On threat modeling and mitigation of medical cyber-physical systems",
         "authors": "H Almohri, L Cheng, D Yao, H Alemzadeh",
         "venue": "2017 IEEE/ACM International Conference on Connected Health: Applications …, 2017",
         "year": "2017",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:JQOojiI6XY0C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:JQOojiI6XY0C",
+        "category": "Conferences"
       },
       {
         "title": "An NLP-based cognitive system for disease status identification in electronic health records",
         "authors": "H Alemzadeh, M Devarakonda",
         "venue": "2017 IEEE EMBS International Conference on Biomedical & Health Informatics …, 2017",
         "year": "2017",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PR6Y55bgFSsC"
-      },
-      {
-        "title": "Message from the WoSoCer workshop organizers",
-        "authors": "H Alemzadeh, R Barbosa, F Brancati, B Gallina, M Lawford, R Natella, ...",
-        "venue": "28th IEEE International Symposium on Software Reliability Engineering …, 2017",
-        "year": "2017",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Ybze24A_UAC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PR6Y55bgFSsC",
+        "category": "Conferences"
       },
       {
         "title": "Surgeon Training in Telerobotic Surgery via a Hardware‐in‐the‐Loop Simulator",
         "authors": "X Li, H Alemzadeh, D Chen, Z Kalbarczyk, RK Iyer, T Kesavadas",
         "venue": "Journal of Healthcare Engineering 2017 (1), 6702919, 2017",
         "year": "2017",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:UHK10RUVsp4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:UHK10RUVsp4C",
+        "category": "Journals"
       }
     ],
     "2018": [
@@ -941,49 +919,40 @@
         "authors": "AHM Rubaiyat, Y Qin, H Alemzadeh",
         "venue": "23rd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC …, 2018",
         "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Re3VWB3Y0AC"
-      },
-      {
-        "title": "DSML 2018 Introduction",
-        "authors": "H Alemzadeh, K Pattabiraman, DE Evans",
-        "venue": "2018 48th Annual IEEE/IFIP International Conference on Dependable Systems …, 2018",
-        "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:tzM49s52ZIMC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_Re3VWB3Y0AC",
+        "category": "Conferences"
       },
       {
         "title": "Towards a cognitive assistant system for emergency response",
         "authors": "SM Preum, S Shu, J Ting, V Lin, R Williams, J Stankovic, H Alemzadeh",
         "venue": "2018 ACM/IEEE 9th International Conference on Cyber-Physical Systems (ICCPS …, 2018",
         "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:kzcrU_BdoSEC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:kzcrU_BdoSEC",
+        "category": "Conferences"
       },
       {
         "title": "An Integrative Approach to Embedded Systems Courseware Submission Type: Work in Progress",
         "authors": "H Powell, T DeLong, H Alemzadeh",
         "venue": "2019 ASEE Southeastern Section Conference, 2018",
         "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:t7zJ5fGR-2UC"
-      },
-      {
-        "title": "Message from the WoSoCer 2018 Workshop Chairs",
-        "authors": "H Alemzadeh, B Gallina, R Natella, K Netkachova, R Pietrantuono, ...",
-        "venue": "",
-        "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:fEOibwPWpKIC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:t7zJ5fGR-2UC",
+        "category": "Conferences"
       },
       {
         "title": "Model Fusion: Weighted N-Version Programming for Resilient Autonomous Vehicle Steering Control",
         "authors": "A Wu, AHM Rubaiyat, C Anton, H Alemzadeh",
         "venue": "2018 IEEE International Symposium on Software Reliability Engineering …, 2018",
         "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:2KloaMYe4IUC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:2KloaMYe4IUC",
+        "category": "Conferences"
       },
       {
         "title": "CognitiveEMS: A Cognitive Assistant System for Emergency Medical Services",
         "authors": "S Preum, S Shu, M Hotaki, R Williams, J Stankovic, H Alemzadeh",
         "venue": "SIGBED Review, Special Issue on Medical Cyber Physical Systems Workshop (CPS …, 2018",
         "year": "2018",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZfRJV9d4-WMC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ZfRJV9d4-WMC",
+        "category": "Workshops"
       }
     ],
     "2019": [
@@ -992,28 +961,24 @@
         "authors": "S Shu, S Preum, HM Pitchford, RD Williams, J Stankovic, H Alemzadeh",
         "venue": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019",
         "year": "2019",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:0KyAp5RtaNEC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:0KyAp5RtaNEC",
+        "category": "Conferences"
       },
       {
         "title": "Analysis of Cyber-Security Vulnerabilities of Interconnected Medical Devices",
         "authors": "Y Xu, D Tran, Y Tian, H Alemzadeh",
         "venue": "2019 IEEE/ACM International Conference on Connected Health: Applications …, 2019",
         "year": "2019",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yB1At4FlUx8C"
-      },
-      {
-        "title": "NSF Student Travel Grant for the 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2019)",
-        "authors": "H Alemzadeh",
-        "venue": "NSF Award Number 1928306. Directorate for Computer and Information Science …, 2019",
-        "year": "2019",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:cWzG1nlazyYC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yB1At4FlUx8C",
+        "category": "Conferences"
       },
       {
         "title": "Context-aware Monitoring in Robotic Surgery",
         "authors": "MS Yasar, D Evans, H Alemzadeh",
         "venue": "2019 International Symposium on Medical Robotics (ISMR), 2019",
         "year": "2019",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:j8SEvjWlNXcC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:j8SEvjWlNXcC",
+        "category": "Conferences"
       }
     ],
     "2020": [
@@ -1022,56 +987,56 @@
         "authors": "JA Stankovic, H Alemzadeh, B Campbell, J Lach, L Feng, C Fleming, ...",
         "venue": "IEEE Design & Test 38 (3), 112-120, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EYYDruWGBe4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EYYDruWGBe4C",
+        "category": "Journals"
       },
       {
         "title": "A reactive autonomous camera system for the RAVEN II surgical robot",
         "authors": "K Hutchinson, MS Yasar, H Bhatia, H Alemzadeh",
         "venue": "2020 International Symposium on Medical Robotics (ISMR), 195-201, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ML0RJ9NH7IQC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ML0RJ9NH7IQC",
+        "category": "Conferences"
       },
       {
         "title": "IMACS - an interactive cognitive assistant module for cardiac arrest cases in emergency medical service: demo abstract",
         "authors": "MA Rahman, S Preum, JA Stankovic, L Jia, E Mirza, R Williams, ...",
         "venue": "Proceedings of the 18th Conference on Embedded Networked Sensor Systems, 621-622, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:p__nRnzSRKYC"
-      },
-      {
-        "title": "Third International Workshop on Dependable and Secure Machine Learning–DSML 2020",
-        "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, N Papernot, ...",
-        "venue": "2020 50th Annual IEEE/IFIP International Conference on Dependable Systems …, 2020",
-        "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Z5m8FVwuT1cC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:p__nRnzSRKYC",
+        "category": "Conferences"
       },
       {
         "title": "Real-Time Context-aware Detection of Unsafe Events in Robot-Assisted Surgery",
         "authors": "MS Yasar, H Alemzadeh",
         "venue": "2020 50th Annual IEEE/IFIP International Conference on Dependable Systems …, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:URolC5Kub84C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:URolC5Kub84C",
+        "category": "Conferences"
       },
       {
         "title": "Emscontext: EMS protocol-driven concept extraction for cognitive assistance in emergency response",
         "authors": "SM Preum, S Shu, H Alemzadeh, JA Stankovic",
         "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (08), 13350 …, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EkHepimYqZsC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:EkHepimYqZsC",
+        "category": "Conferences"
       },
       {
         "title": "GRACE: generating summary reports automatically for cognitive assistance in emergency response",
         "authors": "MA Rahman, SM Preum, R Williams, H Alemzadeh, JA Stankovic",
         "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (08), 13356 …, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ipzZ9siozwsC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ipzZ9siozwsC",
+        "category": "Conferences"
       },
       {
         "title": "Challenges and opportunities in the detection of safety-critical cyberphysical attacks",
         "authors": "H Lin, H Alemzadeh, Z Kalbarczyk, R Iyer",
         "venue": "Computer 53 (3), 26-37, 2020",
         "year": "2020",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uWiczbcajpAC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uWiczbcajpAC",
+        "category": "Journals"
       }
     ],
     "2021": [
@@ -1080,42 +1045,40 @@
         "authors": "S Kim, W Guo, R Williams, J Stankovic, H Alemzadeh",
         "venue": "2021 IEEE/ACM Conference on Connected Health: Applications, Systems and …, 2021",
         "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:TIZ-Mc8IlK0C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:TIZ-Mc8IlK0C",
+        "category": "Conferences"
       },
       {
         "title": "Challenges and Directions for Ambient Intelligence: A Cyber Physical Systems Perspective",
         "authors": "JA Stankovic, M Ma, SM Preum, H Alemzadeh",
         "venue": "2021 IEEE Third International Conference on Cognitive Machine Intelligence …, 2021",
         "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:gsN89kCJA0AC"
-      },
-      {
-        "title": "Fourth International Workshop on Dependable and Secure Machine Learning–DSML 2021",
-        "authors": "H Xu, G Li, H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, ...",
-        "venue": "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems …, 2021",
-        "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KUbvn5osdkgC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:gsN89kCJA0AC",
+        "category": "Conferences"
       },
       {
         "title": "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems",
         "authors": "X Zhou, B Ahmed, JH Aylor, P Asare, H Alemzadeh",
         "venue": "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems …, 2021",
         "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:L7CI7m0gUJcC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:L7CI7m0gUJcC",
+        "category": "Conferences"
       },
       {
         "title": "On parallel real-time security improvement using mixed-integer programming",
         "authors": "HMJ Almohri, LT Watson, H Alemzadeh, M Almutawa",
         "venue": "IEEE Access 9, 58824-58837, 2021",
         "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ILKRHgRFtOwC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ILKRHgRFtOwC",
+        "category": "Journals"
       },
       {
         "title": "A review of cognitive assistants for healthcare: Trends, prospects, and future directions",
         "authors": "SM Preum, S Munir, M Ma, MS Yasar, DJ Stone, R Williams, H Alemzadeh, ...",
         "venue": "ACM Computing Surveys (CSUR) 53 (6), 1-37, 2021",
         "year": "2021",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4MWp96NkSFoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4MWp96NkSFoC",
+        "category": "Journals"
       }
     ],
     "2022": [
@@ -1124,70 +1087,48 @@
         "authors": "M Bagheri, J Lamp, X Zhou, L Feng, H Alemzadeh",
         "venue": "SafeAI: The AAAI’s Workshop on Artificial Intelligence Safety, Feb 13–14, 2023, 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:e_rmSamDkqQC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:e_rmSamDkqQC",
+        "category": "Workshops"
       },
       {
         "title": "Design and validation of an open-source closed-loop testbed for artificial pancreas systems",
         "authors": "X Zhou, M Kouzel, H Ren, H Alemzadeh",
         "venue": "2022 IEEE/ACM Conference on Connected Health: Applications, Systems and …, 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WZBGuue-350C"
-      },
-      {
-        "title": "NSF Student Travel Grant for the 52nd IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)",
-        "authors": "H Alemzadeh",
-        "venue": "NSF Award Number 2226198. Directorate for Computer and Information Science …, 2022",
-        "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:4vMrXwiscB8C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:WZBGuue-350C",
+        "category": "Conferences"
       },
       {
         "title": "Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems",
         "authors": "X Zhou, M Kouzel, H Alemzadeh",
         "venue": "2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems …, 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VaXvl8Fpj5cC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:VaXvl8Fpj5cC",
+        "category": "Conferences"
       },
       {
         "title": "Strategic safety-critical attacks against an advanced driver assistance system",
         "authors": "X Zhou, A Schmedding, H Ren, L Yang, P Schowitz, E Smirni, ...",
         "venue": "2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems …, 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:lmc2jWPfTJgC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:lmc2jWPfTJgC",
+        "category": "Conferences"
       },
       {
         "title": "Runtime Detection of Executional Errors in Robot-Assisted Surgery",
         "authors": "Z Li, K Hutchinson, H Alemzadeh",
         "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:MLfJN-KU85MC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:MLfJN-KU85MC",
+        "category": "Conferences"
       },
       {
         "title": "Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments",
         "authors": "K Hutchinson, Z Li, LA Cantrell, NS Schenkman, H Alemzadeh",
         "venue": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2022",
         "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:g3aElNc5_aQC"
-      },
-      {
-        "title": "CAREER: Context-Aware Runtime Safety Assurance in Medical Human-Cyber-Physical Systems",
-        "authors": "H Alemzadeh",
-        "venue": "NSF Award Number 2146295. Directorate for Computer and Information Science …, 2022",
-        "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HIFyuExEbWQC"
-      },
-      {
-        "title": "Embedded sensor chips in polymer-based coatings",
-        "authors": "A Afzali-Ardakani, H Alemzadeh, M Ashoori, B Hekmatshoartabari, ...",
-        "venue": "US Patent 11,256,883, 2022",
-        "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:uc_IGeMz5qoC"
-      },
-      {
-        "title": "Fifth International Workshop on Dependable and Secure Machine Learning–DSML 2022",
-        "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, DE Evans, N Papernot, ...",
-        "venue": "Proceedings-52nd Annual IEEE/IFIP International Conference on Dependable …, 2022",
-        "year": "2022",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:oNZyr7d5Mn4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:g3aElNc5_aQC",
+        "category": "Journals"
       }
     ],
     "2023": [
@@ -1196,77 +1137,80 @@
         "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
         "venue": "International Journal of Computer Assisted Radiology and Surgery 18 (12 …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC",
+        "category": "Journals"
       },
       {
         "title": "Towards Interpretable Motion-level Skill Assessment in Robotic Surgery",
         "authors": "K Hutchinson, K Chen, H Alemzadeh",
         "venue": "arXiv preprint arXiv:2311.05838, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:86PQX7AUzd4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:86PQX7AUzd4C",
+        "category": "Pre-prints"
       },
       {
         "title": "Robotic scene segmentation with memory network for runtime surgical context inference",
         "authors": "Z Li, I Reyes, H Alemzadeh",
         "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ClCfbGk0d_YC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ClCfbGk0d_YC",
+        "category": "Conferences"
       },
       {
         "title": "Evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data",
         "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
         "venue": "IEEE Robotics and Automation Letters 8 (8), 5132-5139, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:q3CdL3IzO_QC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:q3CdL3IzO_QC",
+        "category": "Journals"
       },
       {
         "title": "EMS-BERT: a pre-trained language representation model for the emergency medical services (EMS) domain",
         "authors": "MA Rahman, SM Preum, RD Williams, H Alemzadeh, J Stankovic",
         "venue": "Proceedings of the 8th ACM/IEEE International Conference on Connected Health …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:foquWX3nUaYC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:foquWX3nUaYC",
+        "category": "Conferences"
       },
       {
         "title": "emsreact: A real-time interactive cognitive assistant for cardiac arrest training in emergency medical services",
         "authors": "MA Rahman, L Jia, E Mirza, SM Preum, H Alemzadeh, RD Williams, ...",
         "venue": "2023 19th International Conference on Distributed Computing in Smart Systems …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HbR8gkJAVGIC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HbR8gkJAVGIC",
+        "category": "Conferences"
       },
       {
         "title": "Senseems-towards a hand activity recognition and monitoring system for emergency medical services",
         "authors": "MA Rahman, K Weerasinghe, L Wijayasingha, H Alemzadeh, ...",
         "venue": "Proceedings of the 22nd International Conference on Information Processing …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:xtoqd-5pKcoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:xtoqd-5pKcoC",
+        "category": "Conferences"
       },
       {
         "title": "Towards Surgical Context Inference and Translation to Gestures",
         "authors": "K Hutchinson, Z Li, I Reyes, H Alemzadeh",
         "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PoWvk5oyLR8C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PoWvk5oyLR8C",
+        "category": "Conferences"
       },
       {
         "title": "Short: Basal-Adjust: Trend Prediction Alerts and Adjusted Basal Rates for Hyperglycemia Prevention",
         "authors": "C Smith, M Kouzel, X Zhou, H Alemzadeh",
         "venue": "2023 IEEE/ACM International Conference on Connected Health: Applications …, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Dip1O2bNi0gC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Dip1O2bNi0gC",
+        "category": "Conferences"
       },
       {
         "title": "Hybrid knowledge and data driven synthesis of runtime monitors for cyber-physical systems",
         "authors": "X Zhou, B Ahmed, JH Aylor, P Asare, H Alemzadeh",
         "venue": "IEEE Transactions on Dependable and Secure Computing 21 (1), 12-30, 2023",
         "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bz8QjSJIRt4C"
-      },
-      {
-        "title": "Message from the DSML 2023 Organizers",
-        "authors": "H Alemzadeh, R Bobba, V Chandrasekaran, D Evans, N Papernot, ...",
-        "venue": "Proceedings-53rd Annual IEEE/IFIP International Conference on Dependable …, 2023",
-        "year": "2023",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:hCrLmN-GePgC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bz8QjSJIRt4C",
+        "category": "Journals"
       }
     ],
     "2024": [
@@ -1275,49 +1219,48 @@
         "authors": "M Hallajiyan, AP Dharmalingam, G Mitra, H Alemzadeh, S Iqbal, ...",
         "venue": "Proceedings of the 2024 Workshop on Cybersecurity in Healthcare, 77-84, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IUKN3-7HHlwC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:IUKN3-7HHlwC",
+        "category": "Workshops"
       },
       {
         "title": "Strategic Resilience Evaluation of Neural Networks Within Autonomous Vehicle Software",
         "authors": "A Schmedding, P Schowitz, X Zhou, Y Lu, L Yang, H Alemzadeh, E Smirni",
         "venue": "Lecture Notes in Computer Science 14988, 43rd International Conference on …, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:dBIO0h50nwkC"
-      },
-      {
-        "title": "Collaborative Research: SHF: Medium: End-to-End Resilience in Autonomous Driving Systems: Strategic Vulnerability Assessment and Mitigation",
-        "authors": "H Alemzadeh",
-        "venue": "NSF Award Number 2402941. Directorate for Computer and Information Science …, 2024",
-        "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:mNrWkgRL2YcC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:dBIO0h50nwkC",
+        "category": "Conferences"
       },
       {
         "title": "Camera-independent single image depth estimation from defocus blur",
         "authors": "L Wijayasingha, H Alemzadeh, JA Stankovic",
         "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC",
+        "category": "Conferences"
       },
       {
         "title": "Multimodal Transformers for Real-Time Surgical Activity Prediction",
         "authors": "K Weerasinghe, SHR Roodabeh, K Hutchinson, H Alemzadeh",
         "venue": "IEEE International Conference on Robotics and Automation (ICRA) 2024, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:GtLg2Ama23sC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:GtLg2Ama23sC",
+        "category": "Conferences"
       },
       {
         "title": "Real-Time Multimodal Cognitive Assistant for Emergency Medical Services",
         "authors": "K Weerasinghe, S Janapati, X Ge, S Kim, S Iyer, JA Stankovic, ...",
         "venue": "9th ACM/IEEE Conference on Internet of Things Design and Implementation …, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9pM33mqn1YgC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9pM33mqn1YgC",
+        "category": "Conferences"
       },
       {
         "title": "DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction",
         "authors": "X Ge, RD Williams, JA Stankovic, H Alemzadeh",
         "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language …, 2024",
         "year": "2024",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PVjk1bu6vJQC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:PVjk1bu6vJQC",
+        "category": "Conferences"
       }
     ],
     "2025": [
@@ -1326,28 +1269,32 @@
         "authors": "SHR Roodabeh, H Alemzadeh",
         "venue": "TechRxiv, 2025",
         "year": "2025",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OR75R8vi5nAC",
+        "category": "Pre-prints"
       },
       {
         "title": "Knowsafe: Combined knowledge and data driven hazard mitigation in artificial pancreas systems",
         "authors": "X Zhou, M Kouzel, C Smith, H Alemzadeh",
         "venue": "IEEE Transactions on Dependable and Secure Computing, 2025",
         "year": "2025",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_axFR9aDTf0C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:_axFR9aDTf0C",
+        "category": "Journals"
       },
       {
         "title": "Safety interventions against adversarial patches in an open-source driver assistance system",
         "authors": "C Chen, G Xiao, D Lee, L Yang, E Smirni, H Alemzadeh, X Zhou",
         "venue": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems …, 2025",
         "year": "2025",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:QYdC8u9Cj1oC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:QYdC8u9Cj1oC",
+        "category": "Conferences"
       },
       {
         "title": "Runtime Stealthy Perception Attacks against DNN-based Adaptive Cruise Control Systems",
         "authors": "X Zhou, A Chen, M Kouzel, H Ren, M McCarty, C Nita-Rotaru, ...",
         "venue": "Proceedings of the 20th ACM ASIA Conference on Computer and Communications …, 2025",
         "year": "2025",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ri6SYOTghG4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:Ri6SYOTghG4C",
+        "category": "Conferences"
       }
     ],
     "2026": [
@@ -1356,93 +1303,72 @@
         "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
         "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 35081-35110, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HeT0ZceujKMC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:HeT0ZceujKMC",
+        "category": "Conferences"
       },
       {
         "title": "Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery",
         "authors": "SHR Roodabeh, Z Li, H Alemzadeh",
         "venue": "arXiv preprint arXiv:2606.23593, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC",
+        "category": "Pre-prints"
       },
       {
         "title": "SAMD: A Tool for Identifying False Data Injection Scenarios in AI/ML-enabled Medical Devices",
         "authors": "M Hallajiyan, X Ge, AP Dharmalingam, G Mitra, S Iqbal, H Alemzadeh, ...",
         "venue": "arXiv preprint arXiv:2605.29210, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yqoGN6RLRZoC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yqoGN6RLRZoC",
+        "category": "Pre-prints"
       },
       {
         "title": "Digital Guardians: The Past and The Future of Cyber-Physical Resilience",
         "authors": "S Bagchi, H Kim, T Abdelzaher, H Alemzadeh, S Chaterji, G Chou, ...",
         "venue": "arXiv preprint arXiv:2604.14360, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:r_AWSJRzSzQC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:r_AWSJRzSzQC",
+        "category": "Pre-prints"
       },
       {
         "title": "Expert-guided prompting and retrieval-augmented generation for emergency medical service question answering",
         "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
         "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (36), 30798 …, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:3htObqc8RwsC",
+        "category": "Conferences"
       },
       {
         "title": "Egoems: A high-fidelity multimodal egocentric dataset for cognitive assistance in emergency medical services",
         "authors": "K Weerasinghe, X Ge, T Heick, LN Wijayasingha, A Cortez, A Satpathy, ...",
         "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (46), 39432 …, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:OcBU2YAGkTUC",
+        "category": "Conferences"
       },
       {
         "title": "A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery",
         "authors": "Z Zhang, SHR Roodabeh, H Alemzadeh",
         "venue": "arXiv preprint arXiv:2603.06824, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC",
+        "category": "Pre-prints"
       },
       {
         "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery",
         "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
         "venue": "arXiv preprint arXiv:2602.12407, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C",
+        "category": "Pre-prints"
       },
       {
         "title": "Systems-Theoretic and Data-Driven Security Analysis in ML-Enabled Medical Devices",
         "authors": "G Mitra, M Hallajiyan, I Kim, AP Dharmalingam, M Elnawawy, S Iqbal, ...",
         "venue": "International Conference on Cybersecurity in Healthcare, 232-263, 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:DJbcl8HfkQkC"
-      }
-    ],
-    "Unknown": [
-      {
-        "title": "Test of Time Award",
-        "authors": "H Alemzadeh, D Chen, X Li, T Kesavadas, ZT Kalbarczyk",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:F9fV5C73w3QC"
-      },
-      {
-        "title": "DSML Organization",
-        "authors": "X Zhou, Y Huang, H Alemzadeh, R Bobba, V Chandrasekaran, D Evans, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:ODE9OILHJdcC"
-      },
-      {
-        "title": "2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)| 979-8-3315-1201-9/25/$31.00© 2025 IEEE| DOI: 10.1109/DSN64029. 2025.00073",
-        "authors": "A Adebayo, MR Ahmed, S Ainsworth, K Akkaya, H Alemzadeh, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:bKqednn6t2AC"
-      },
-      {
-        "title": "Research Track Program Committee",
-        "authors": "A Mostefaoui, A Bondavalli, A Schmidt, A Keromytis, A Stavrou, A Remke, ...",
-        "venue": "",
-        "year": "",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:XvxMoLDsR5gC"
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:DJbcl8HfkQkC",
+        "category": "Conferences"
       }
     ]
   }

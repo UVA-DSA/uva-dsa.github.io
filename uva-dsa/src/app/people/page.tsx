@@ -1,5 +1,6 @@
 // styles moved to global stylesheet (globals.css)
 import Image from 'next/image';
+import { dissertationByAuthor } from '@/data/dissertations';
 
 // Separate lists for each type of member
 const PIs = [
@@ -278,7 +279,24 @@ export default function People() {
                     <span className="alumniName">{member.name}</span>
                   )}
                   {member.detail && (
-                    <span className="alumniDetail"> ({member.detail})</span>
+                    <span className="alumniDetail">
+                      {" ("}
+                      {member.detail}
+                      {dissertationByAuthor[member.name] && (
+                        <>
+                          {" - "}
+                          <a
+                            className="alumniLink"
+                            href={dissertationByAuthor[member.name].url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            Dissertation
+                          </a>
+                        </>
+                      )}
+                      {")"}
+                    </span>
                   )}
                   {member.destination && (
                     <span className="alumniDest"> → {member.destination}</span>
