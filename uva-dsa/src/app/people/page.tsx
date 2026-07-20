@@ -13,12 +13,6 @@ const PIs = [
 
 const graduateStudents = [
   {
-    name: 'Hamid Roodabeh',
-    role: 'Ph.D. Student',
-    image: '/images/people/hamid-headshot.jpg',
-    website: 'https://hamidrezaro.github.io/',
-  },
-  {
     name: 'Keshara Weerasinghe',
     role: 'Ph.D. Student',
     image: '/images/people/keshara-headshot.jpg',
@@ -29,6 +23,12 @@ const graduateStudents = [
     role: 'Ph.D. Student',
     image: '/images/people/xueren-headshot.jpg',
     website: 'https://xueren-ge.github.io/',
+  },
+  {
+    name: 'Hamid Roodabeh',
+    role: 'Ph.D. Student',
+    image: '/images/people/hamid-headshot.jpg',
+    website: 'https://hamidrezaro.github.io/',
   },
   {
     name: 'Zhaomeng Zhang',
