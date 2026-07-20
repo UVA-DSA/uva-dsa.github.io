@@ -83,7 +83,7 @@ const alumni = [
     ],
   },
   {
-    group: 'Undergraduate Researchers',
+    group: 'Undergraduate Students',
     members: [
       { name: 'Sebastian Condyles', detail: '', destination: '', website: '' },
       { name: 'Tessa Heick', detail: '', destination: '', website: '' },
@@ -217,7 +217,7 @@ export default function People() {
 
       {/* Undergraduate Students Section */}
       <div className="section">
-        <h2 className="sectionTitle">Undergraduate Researchers</h2>
+        <h2 className="sectionTitle">Undergraduate Students</h2>
         <div className="list">
           {undergraduateStudents.map((member, index) => {
             const card = (
