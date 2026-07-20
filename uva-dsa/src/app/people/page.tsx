@@ -69,12 +69,17 @@ const undergraduateStudents = [
 
 const alumni = [
   {
-    group: 'Graduate Students and Postdocs',
+    group: 'Postdocs',
+    members: [
+      { name: 'Maryam Bagheri', detail: 'Postdoc, 2024', destination: 'NVIDIA', website: 'https://www.linkedin.com/in/maryam-bagheri-15623450/' },
+    ],
+  },
+  {
+    group: 'Graduate Students',
     members: [
       { name: 'Zongyu (Zoey) Li', detail: 'Ph.D., 2025', destination: 'Meta', website: 'https://www.zongyuli.net' },
       { name: 'Xugui Zhou', detail: 'Ph.D., 2024', destination: 'Assistant Professor @ Louisiana State University', website: 'https://xugui-zhou.github.io/' },
       { name: 'Kay Hutchinson', detail: 'Ph.D., 2023', destination: '', website: 'https://kch4fk.github.io' },
-      { name: 'Maryam Bagheri', detail: 'Postdoc, 2024', destination: 'NVIDIA', website: 'https://www.linkedin.com/in/maryam-bagheri-15623450/' },
       { name: 'Mustafa Hotaki', detail: 'M.Sc., 2020', destination: 'Counterpoint Consulting', website: 'https://www.linkedin.com/in/mustafa-hotaki/' },
       { name: 'Bulbul Ahmed', detail: 'M.Sc., 2019', destination: 'Ph.D. @ University of Florida', website: 'https://www.linkedin.com/in/bulbul-ahmed-9261188a/' },
       { name: 'Sile Shu', detail: 'M.Sc., 2019', destination: 'Amazon', website: 'https://www.linkedin.com/in/sile-shu-47758816b/' },
