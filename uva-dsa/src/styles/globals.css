@@ -567,6 +567,44 @@ section.hero .heroTextWelcome {
   border-radius: 10px;
   object-fit: cover;
 }
+.peopleSection .alumniGroup {
+  margin-top: 20px;
+}
+.peopleSection .alumniGroupTitle {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #646464;
+  margin: 0 0 8px;
+}
+.peopleSection .alumniList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.peopleSection .alumniItem {
+  font-size: 0.95rem;
+  color: #5c5c5c;
+  padding: 3px 0;
+  line-height: 1.4;
+}
+.peopleSection .alumniName {
+  color: #686868;
+  font-weight: 500;
+}
+.peopleSection .alumniLink {
+  color: #232d4b;
+  text-decoration: none;
+}
+.peopleSection .alumniLink:hover {
+  text-decoration: underline;
+}
+.peopleSection .alumniDetail {
+  color: #7a7a7a;
+}
+.peopleSection .alumniDest {
+  color: #8a8a8a;
+  font-style: italic;
+}
 
 /* ------------------------------
    Publications
