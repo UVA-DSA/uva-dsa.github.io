@@ -1,6 +1,6 @@
 {
   "source": "google-scholar",
-  "generatedAt": "2026-07-20T17:56:30.049Z",
+  "generatedAt": "2026-08-04T15:49:26.542Z",
   "userId": "sXpmLxUAAAAJ",
   "items": [
     {
@@ -126,7 +126,7 @@
     {
       "title": "Camera-independent single image depth estimation from defocus blur",
       "authors": "L Wijayasingha, H Alemzadeh, JA Stankovic",
-      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
+      "venue": "2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2024",
       "year": "2024",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC",
       "category": "Conferences"
@@ -158,13 +158,13 @@
     {
       "title": "COMPASS: a formal framework and aggregate dataset for generalized surgical procedure modeling",
       "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
-      "venue": "International Journal of Computer Assisted Radiology and Surgery 18 (12 …, 2023",
+      "venue": "International journal of computer assisted radiology and surgery 18 (12 …, 2023",
       "year": "2023",
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC",
       "category": "Journals"
     },
     {
-      "title": "Towards Interpretable Motion-level Skill Assessment in Robotic Surgery",
+      "title": "Towards Interpretable Motion-Level Skill Assessment in Robotic Surgery",
       "authors": "K Hutchinson, K Chen, H Alemzadeh",
       "venue": "arXiv preprint arXiv:2311.05838, 2023",
       "year": "2023",
@@ -188,7 +188,7 @@
       "category": "Journals"
     },
     {
-      "title": "EMS-BERT: a pre-trained language representation model for the emergency medical services (EMS) domain",
+      "title": "Ems-bert: a pre-trained language representation model for the emergency medical services (ems) domain",
       "authors": "MA Rahman, SM Preum, RD Williams, H Alemzadeh, J Stankovic",
       "venue": "Proceedings of the 8th ACM/IEEE International Conference on Connected Health …, 2023",
       "year": "2023",
@@ -1135,13 +1135,13 @@
       {
         "title": "COMPASS: a formal framework and aggregate dataset for generalized surgical procedure modeling",
         "authors": "K Hutchinson, I Reyes, Z Li, H Alemzadeh",
-        "venue": "International Journal of Computer Assisted Radiology and Surgery 18 (12 …, 2023",
+        "venue": "International journal of computer assisted radiology and surgery 18 (12 …, 2023",
         "year": "2023",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:-FonjvnnhkoC",
         "category": "Journals"
       },
       {
-        "title": "Towards Interpretable Motion-level Skill Assessment in Robotic Surgery",
+        "title": "Towards Interpretable Motion-Level Skill Assessment in Robotic Surgery",
         "authors": "K Hutchinson, K Chen, H Alemzadeh",
         "venue": "arXiv preprint arXiv:2311.05838, 2023",
         "year": "2023",
@@ -1165,7 +1165,7 @@
         "category": "Journals"
       },
       {
-        "title": "EMS-BERT: a pre-trained language representation model for the emergency medical services (EMS) domain",
+        "title": "Ems-bert: a pre-trained language representation model for the emergency medical services (ems) domain",
         "authors": "MA Rahman, SM Preum, RD Williams, H Alemzadeh, J Stankovic",
         "venue": "Proceedings of the 8th ACM/IEEE International Conference on Connected Health …, 2023",
         "year": "2023",
@@ -1233,7 +1233,7 @@
       {
         "title": "Camera-independent single image depth estimation from defocus blur",
         "authors": "L Wijayasingha, H Alemzadeh, JA Stankovic",
-        "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024",
+        "venue": "2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2024",
         "year": "2024",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:9c2xU6iGI7YC",
         "category": "Conferences"
