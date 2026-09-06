@@ -178,6 +178,43 @@ function parsePublications(html, maxItems = 100) {
   return items;
 }
 
+/**
+ * Apply manual corrections from scripts/publication-overrides.json.
+ * Google Scholar keeps listing some papers under their arXiv/TechRxiv entry
+ * long after they are published; this lets us fix venue/category/url/year for
+ * those without touching the scraper. Matching is by case-insensitive title
+ * prefix.
+ */
+function applyOverrides(items) {
+  const overridesPath = path.join(__dirname, "publication-overrides.json");
+  if (!fs.existsSync(overridesPath)) return items;
+  let overrides = [];
+  try {
+    overrides = JSON.parse(fs.readFileSync(overridesPath, "utf8")).overrides || [];
+  } catch (e) {
+    console.warn("[fetch-scholar] Could not read publication-overrides.json:", e.message);
+    return items;
+  }
+  const unused = new Set(overrides.map((o) => o.titleStartsWith));
+  const out = items.map((item) => {
+    const t = (item.title || "").toLowerCase();
+    const o = overrides.find((ov) =>
+      t.startsWith((ov.titleStartsWith || "").toLowerCase())
+    );
+    if (!o) return item;
+    unused.delete(o.titleStartsWith);
+    const { titleStartsWith, ...fields } = o;
+    return { ...item, ...fields };
+  });
+  if (unused.size > 0) {
+    console.warn(
+      `[fetch-scholar] ${unused.size} override(s) matched no Scholar entry:`,
+      [...unused]
+    );
+  }
+  return out;
+}
+
 async function main() {
   //const userId = 
     //process.env.SCHOLAR_USER_ID || process.env.NEXT_PUBLIC_SCHOLAR_USER_ID;
@@ -199,7 +236,7 @@ async function main() {
 
   try {
     const html = await fetchScholarHTML(userId);
-    const items = parsePublications(html);
+    const items = applyOverrides(parsePublications(html));
 
 	// group by year
 	const byYear = {};
@@ -227,7 +264,7 @@ async function main() {
       console.warn(
         "[fetch-scholar] Keeping previous publications.json due to empty parse."
       );
-      result.items = prev.items;
+      result.items = applyOverrides(prev.items);
     }
   }
 

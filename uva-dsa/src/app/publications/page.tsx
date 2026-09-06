@@ -29,14 +29,17 @@ type Category =
   | "Workshops"
   | "Dissertations";
 
-// Order in which categories are displayed (Pre-prints first).
+// Order in which categories are displayed.
 const CATEGORY_ORDER: Category[] = [
-  "Pre-prints",
   "Journals",
   "Conferences",
+  "Pre-prints",
   "Workshops",
   "Dissertations",
 ];
+
+// Anchor id used for each category section (for the jump-link subheader).
+const categoryId = (c: Category) => c.toLowerCase().replace(/[^a-z]+/g, "-");
 
 // Fallback classifier for items missing a precomputed `category` (the
 // fetch-scholar script normally sets it). Mirrors that script's logic.
@@ -137,10 +140,26 @@ export default function Publications() {
             ...(grouped["Dissertations"] || []),
             ...labDissertations,
           ];
-          return CATEGORY_ORDER.filter(
+          const visible = CATEGORY_ORDER.filter(
             (c) => grouped[c] && grouped[c].length > 0
-          ).map((category) => (
-            <div key={category} className="publicationCategory">
+          );
+          return (
+            <>
+              <nav className="publicationsSubnav" aria-label="Publication sections">
+                <ul>
+                  {visible.map((c) => (
+                    <li key={c}>
+                      <a href={`#${categoryId(c)}`}>{c}</a>
+                    </li>
+                  ))}
+                </ul>
+              </nav>
+              {visible.map((category) => (
+            <div
+              key={category}
+              id={categoryId(category)}
+              className="publicationCategory"
+            >
               <h2 className="publicationCategoryTitle">{category}</h2>
               <ol className="publicationsList">
                 {grouped[category].map((p, idx) => (
@@ -175,7 +194,9 @@ export default function Publications() {
                 ))}
               </ol>
             </div>
-          ));
+              ))}
+            </>
+          );
         })()
       ) : (
         data && (

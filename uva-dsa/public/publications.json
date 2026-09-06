@@ -1,8 +1,16 @@
 {
   "source": "google-scholar",
-  "generatedAt": "2026-08-04T15:49:26.542Z",
+  "generatedAt": "2026-09-06T15:09:58.038Z",
   "userId": "sXpmLxUAAAAJ",
   "items": [
+    {
+      "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot‐Assisted Minimally Invasive Surgery",
+      "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
+      "venue": "International Journal of Medical Robotics and Computer-Assisted Surgery (IJMRCAS), 2026",
+      "year": "2026",
+      "url": "https://uva-dsa.github.io/MiDAS/",
+      "category": "Journals"
+    },
     {
       "title": "EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents",
       "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
@@ -14,10 +22,10 @@
     {
       "title": "Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery",
       "authors": "SHR Roodabeh, Z Li, H Alemzadeh",
-      "venue": "arXiv preprint arXiv:2606.23593, 2026",
+      "venue": "IEEE Robotics and Automation Letters (RA-L), 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC",
-      "category": "Pre-prints"
+      "url": "https://arxiv.org/pdf/2606.23593",
+      "category": "Journals"
     },
     {
       "title": "SAMD: A Tool for Identifying False Data Injection Scenarios in AI/ML-enabled Medical Devices",
@@ -54,18 +62,10 @@
     {
       "title": "A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery",
       "authors": "Z Zhang, SHR Roodabeh, H Alemzadeh",
-      "venue": "arXiv preprint arXiv:2603.06824, 2026",
+      "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2026",
       "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC",
-      "category": "Pre-prints"
-    },
-    {
-      "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery",
-      "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
-      "venue": "arXiv preprint arXiv:2602.12407, 2026",
-      "year": "2026",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C",
-      "category": "Pre-prints"
+      "url": "https://arxiv.org/pdf/2603.06824",
+      "category": "Conferences"
     },
     {
       "title": "Systems-Theoretic and Data-Driven Security Analysis in ML-Enabled Medical Devices",
@@ -1299,6 +1299,14 @@
     ],
     "2026": [
       {
+        "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot‐Assisted Minimally Invasive Surgery",
+        "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
+        "venue": "International Journal of Medical Robotics and Computer-Assisted Surgery (IJMRCAS), 2026",
+        "year": "2026",
+        "url": "https://uva-dsa.github.io/MiDAS/",
+        "category": "Journals"
+      },
+      {
         "title": "EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents",
         "authors": "X Ge, S Murtaza, A Cortez, H Alemzadeh",
         "venue": "Findings of the Association for Computational Linguistics: ACL 2026, 35081-35110, 2026",
@@ -1309,10 +1317,10 @@
       {
         "title": "Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery",
         "authors": "SHR Roodabeh, Z Li, H Alemzadeh",
-        "venue": "arXiv preprint arXiv:2606.23593, 2026",
+        "venue": "IEEE Robotics and Automation Letters (RA-L), 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:a3BOlSfXSfwC",
-        "category": "Pre-prints"
+        "url": "https://arxiv.org/pdf/2606.23593",
+        "category": "Journals"
       },
       {
         "title": "SAMD: A Tool for Identifying False Data Injection Scenarios in AI/ML-enabled Medical Devices",
@@ -1349,18 +1357,10 @@
       {
         "title": "A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery",
         "authors": "Z Zhang, SHR Roodabeh, H Alemzadeh",
-        "venue": "arXiv preprint arXiv:2603.06824, 2026",
+        "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2026",
         "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:yMeIxYmEMEAC",
-        "category": "Pre-prints"
-      },
-      {
-        "title": "MiDAS: A Multimodal Data Acquisition System and Dataset for Robot-Assisted Minimally Invasive Surgery",
-        "authors": "K Weerasinghe, SHR Roodabeh, A Hawkins, Z Zhang, Z Schrader, ...",
-        "venue": "arXiv preprint arXiv:2602.12407, 2026",
-        "year": "2026",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sXpmLxUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sXpmLxUAAAAJ:KbBQZpvPDL4C",
-        "category": "Pre-prints"
+        "url": "https://arxiv.org/pdf/2603.06824",
+        "category": "Conferences"
       },
       {
         "title": "Systems-Theoretic and Data-Driven Security Analysis in ML-Enabled Medical Devices",
