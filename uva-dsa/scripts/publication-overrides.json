@@ -1,5 +1,5 @@
 {
-  "_comment": "Manual corrections applied on top of the Google Scholar scrape (scripts/fetch-scholar.js). Match is by case-insensitive title prefix. Use this for pre-prints that have since been published, or to fix a wrong venue/category/url. Categories: Pre-prints, Journals, Conferences, Workshops, Dissertations.",
+  "_comment": "Manual corrections applied on top of the Google Scholar scrape (scripts/fetch-scholar.js). Match is by case-insensitive title prefix. Use this for pre-prints that have since been published, or to fix a wrong venue/category/url. Categories: Pre-prints, Journals, Conferences, Workshops, Dissertations. An entry with \"drop\": true is removed from the list entirely (use for garbled duplicate Scholar entries).",
   "overrides": [
     {
       "titleStartsWith": "Real-Time Multimodal Activity-Aware Error Detection in Robot-Assisted Surgery",
@@ -18,6 +18,10 @@
       "venue": "International Journal of Medical Robotics and Computer-Assisted Surgery (IJMRCAS), 2026",
       "category": "Journals",
       "url": "https://uva-dsa.github.io/MiDAS/"
+    },
+    {
+      "titleStartsWith": "Jaishankar Raman, Nancy Leveson, and Ravishankar Iyer.",
+      "drop": true
     }
   ]
 }

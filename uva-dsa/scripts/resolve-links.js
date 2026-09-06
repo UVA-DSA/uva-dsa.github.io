@@ -10,8 +10,11 @@
  * citation id) and consumed by fetch-scholar.js, so CI never has to hit
  * Scholar for these. Run manually when new papers show up:
  *
- *   node scripts/resolve-links.js          # only unresolved entries
- *   node scripts/resolve-links.js --all    # re-resolve everything
+ *   node scripts/resolve-links.js             # only unresolved entries (Scholar)
+ *   node scripts/resolve-links.js --all       # re-resolve everything (Scholar)
+ *   node scripts/resolve-links.js --crossref  # unresolved entries via Crossref
+ *                                             # title search -> https://doi.org/…
+ *                                             # (useful when Scholar blocks you)
  */
 const fs = require("fs");
 const path = require("path");
@@ -81,8 +84,37 @@ async function resolveOne(item) {
   return candidates[0] || null;
 }
 
+function normTitle(t) {
+  return (t || "")
+    .toLowerCase()
+    .replace(/[\u2018\u2019\u201c\u201d"']/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+// Crossref bibliographic search; accept only a near-exact title match.
+async function resolveViaCrossref(item) {
+  const q = encodeURIComponent(item.title);
+  const res = await fetch(
+    `https://api.crossref.org/works?query.bibliographic=${q}&rows=5&select=DOI,title`,
+    { headers: { "User-Agent": "uva-dsa-website-link-resolver (https://uva-dsa.github.io)" } }
+  );
+  if (!res.ok) throw new Error(`Crossref HTTP ${res.status}`);
+  const data = await res.json();
+  const want = normTitle(item.title);
+  for (const w of data.message.items || []) {
+    const got = normTitle((w.title || [])[0]);
+    if (!got) continue;
+    if (got === want || got.startsWith(want) || want.startsWith(got)) {
+      return `https://doi.org/${w.DOI}`;
+    }
+  }
+  return null;
+}
+
 async function main() {
   const all = process.argv.includes("--all");
+  const viaCrossref = process.argv.includes("--crossref");
   const items = JSON.parse(fs.readFileSync(pubsPath, "utf8")).items || [];
   const cache = fs.existsSync(cachePath)
     ? JSON.parse(fs.readFileSync(cachePath, "utf8"))
@@ -95,7 +127,12 @@ async function main() {
     if (!id) continue; // not a Scholar link (already overridden)
     if (!all && cache[id] && cache[id].url) continue;
     try {
-      const url = await resolveOne(item);
+      const url = viaCrossref ? await resolveViaCrossref(item) : await resolveOne(item);
+      if (viaCrossref && !url) {
+        console.log(`✘ ${item.title.slice(0, 70)} -> (no Crossref match)`);
+        await sleep(1000);
+        continue;
+      }
       cache[id] = { title: item.title, url, resolvedAt: new Date().toISOString() };
       console.log(`${url ? "✔" : "✘"} ${item.title.slice(0, 70)} -> ${url || "(none)"}`);
     } catch (e) {
@@ -107,7 +144,7 @@ async function main() {
     }
     save();
     done++;
-    await sleep(3000);
+    await sleep(Number(process.env.DELAY_MS) || (viaCrossref ? 1000 : 3000));
   }
   save();
   console.log(`Resolved ${done} entries; cache has ${Object.keys(cache).length}.`);

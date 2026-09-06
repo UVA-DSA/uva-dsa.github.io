@@ -243,5 +243,163 @@
     "title": "Towards a cognitive assistant system for emergency response",
     "url": "https://ieeexplore.ieee.org/abstract/document/8443754/",
     "resolvedAt": "2026-09-06T15:58:59.832Z"
+  },
+  "sXpmLxUAAAAJ:2KloaMYe4IUC": {
+    "title": "Model Fusion: Weighted N-Version Programming for Resilient Autonomous Vehicle Steering Control",
+    "url": "https://doi.org/10.1109/issrew.2018.00-11",
+    "resolvedAt": "2026-09-06T16:11:50.450Z"
+  },
+  "sXpmLxUAAAAJ:ZfRJV9d4-WMC": {
+    "title": "CognitiveEMS: A Cognitive Assistant System for Emergency Medical Services",
+    "url": "https://doi.org/10.1145/3357495.3357502",
+    "resolvedAt": "2026-09-06T16:11:52.132Z"
+  },
+  "sXpmLxUAAAAJ:eq2jaN3J8jMC": {
+    "title": "On the safety of machine learning: Cyber-physical systems, decision sciences, and data products",
+    "url": "https://doi.org/10.1089/big.2016.0051",
+    "resolvedAt": "2026-09-06T16:11:53.907Z"
+  },
+  "sXpmLxUAAAAJ:JQOojiI6XY0C": {
+    "title": "On threat modeling and mitigation of medical cyber-physical systems",
+    "url": "https://doi.org/10.1109/chase.2017.69",
+    "resolvedAt": "2026-09-06T16:11:55.874Z"
+  },
+  "sXpmLxUAAAAJ:PR6Y55bgFSsC": {
+    "title": "An NLP-based cognitive system for disease status identification in electronic health records",
+    "url": "https://doi.org/10.1109/bhi.2017.7897212",
+    "resolvedAt": "2026-09-06T16:11:57.691Z"
+  },
+  "sXpmLxUAAAAJ:UHK10RUVsp4C": {
+    "title": "Surgeon Training in Telerobotic Surgery via a Hardware\u2010in\u2010the\u2010Loop Simulator",
+    "url": "https://doi.org/10.1155/2017/6702919",
+    "resolvedAt": "2026-09-06T16:11:59.742Z"
+  },
+  "sXpmLxUAAAAJ:ye4kPcJQO24C": {
+    "title": "A hardware-in-the-loop simulator for safety training in robotic surgery",
+    "url": "https://doi.org/10.1109/iros.2016.7759778",
+    "resolvedAt": "2026-09-06T16:12:03.038Z"
+  },
+  "sXpmLxUAAAAJ:z_wVstp3MssC": {
+    "title": "Adverse events in robotic surgery: a retrospective study of 14 years of FDA data",
+    "url": "https://doi.org/10.1371/journal.pone.0151470",
+    "resolvedAt": "2026-09-06T16:12:05.216Z"
+  },
+  "sXpmLxUAAAAJ:_B80troHkn4C": {
+    "title": "Safety-critical cyber-physical attacks: Analysis, detection, and mitigation",
+    "url": "https://doi.org/10.1145/2898375.2898391",
+    "resolvedAt": "2026-09-06T16:12:09.649Z"
+  },
+  "sXpmLxUAAAAJ:AXPGKjj_ei8C": {
+    "title": "Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-based Detection and Mitigation",
+    "url": "https://doi.org/10.1109/dsn.2016.43",
+    "resolvedAt": "2026-09-06T16:12:11.028Z"
+  },
+  "sXpmLxUAAAAJ:1qzjygNMrQYC": {
+    "title": "A Fault-Tolerant Hardware Architecture for Robust Wearable Heart Rate Monitoring",
+    "url": "https://doi.org/10.4108/icst.pervasivehealth.2015.259289",
+    "resolvedAt": "2026-09-06T16:12:12.905Z"
+  },
+  "sXpmLxUAAAAJ:wbdj-CoPYUoC": {
+    "title": "Systems-theoretic Safety Assessment of Robotic Telesurgical Systems",
+    "url": "https://doi.org/10.1007/978-3-319-24255-2_16",
+    "resolvedAt": "2026-09-06T16:12:20.146Z"
+  },
+  "sXpmLxUAAAAJ:V3AGJWp-ZtQC": {
+    "title": "Automated classification of computer-based medical device recalls: an application of natural language processing and statistical learning",
+    "url": "https://doi.org/10.1109/cbms.2014.134",
+    "resolvedAt": "2026-09-06T16:12:21.803Z"
+  },
+  "sXpmLxUAAAAJ:ufrVoPGSRksC": {
+    "title": "Analysis of safety-critical computer failures in medical devices",
+    "url": "https://doi.org/10.1109/msp.2013.49",
+    "resolvedAt": "2026-09-06T16:12:23.726Z"
+  },
+  "sXpmLxUAAAAJ:eQOLeE2rZwMC": {
+    "title": "Towards resiliency in embedded medical monitoring devices",
+    "url": "https://doi.org/10.1109/dsnw.2012.6264662",
+    "resolvedAt": "2026-09-06T16:12:26.691Z"
+  },
+  "sXpmLxUAAAAJ:YsMSGLbcyi4C": {
+    "title": "An embedded reconfigurable architecture for patient-specific multi-paramater medical monitoring",
+    "url": "https://doi.org/10.1109/iembs.2011.6090537",
+    "resolvedAt": "2026-09-06T16:12:28.264Z"
+  },
+  "sXpmLxUAAAAJ:Y0pCki6q_DkC": {
+    "title": "RMED: A reconfigurable architecture for embedded medical monitoring",
+    "url": "https://doi.org/10.1109/lissa.2011.5754169",
+    "resolvedAt": "2026-09-06T16:12:29.924Z"
+  },
+  "sXpmLxUAAAAJ:Tyk-4Ss8FVUC": {
+    "title": "An efficient embedded hardware for high accuracy detection of epileptic seizures",
+    "url": "https://doi.org/10.1109/bmei.2010.5639541",
+    "resolvedAt": "2026-09-06T16:12:31.193Z"
+  },
+  "sXpmLxUAAAAJ:IjCSPb-OGe4C": {
+    "title": "Facilitating testability of TLM FIFO: SystemC implementations",
+    "url": "https://doi.org/10.1109/ewdts.2010.5742035",
+    "resolvedAt": "2026-09-06T16:12:33.073Z"
+  },
+  "sXpmLxUAAAAJ:9yKSN-GCB0IC": {
+    "title": "Code optimization for enhancing SystemC simulation time",
+    "url": "https://doi.org/10.1109/ewdts.2010.5742036",
+    "resolvedAt": "2026-09-06T16:12:34.884Z"
+  },
+  "sXpmLxUAAAAJ:d1gkVwhDpl0C": {
+    "title": "Application specific configuration of a fault-tolerant NoC architecture",
+    "url": "https://doi.org/10.1109/bec.2008.4657508",
+    "resolvedAt": "2026-09-06T16:12:39.932Z"
+  },
+  "sXpmLxUAAAAJ:u5HHmVD_uO8C": {
+    "title": "Reliability in application specific mesh-based NoC architectures",
+    "url": "https://doi.org/10.1109/iolts.2008.53",
+    "resolvedAt": "2026-09-06T16:12:41.297Z"
+  },
+  "sXpmLxUAAAAJ:t7zJ5fGR-2UC": {
+    "title": "An Integrative Approach to Embedded Systems Courseware Submission Type: Work in Progress",
+    "url": "https://sites.asee.org/se/wp-content/uploads/sites/56/2021/04/2019ASEESE60.pdf",
+    "resolvedAt": "2026-09-06T16:13:47.193966+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:WqliGbK-hY8C": {
+    "title": "Data-driven resiliency assessment of medical cyber-physical systems",
+    "url": "https://hdl.handle.net/2142/90562",
+    "resolvedAt": "2026-09-06T16:13:47.194364+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:J-pR_7NvFogC": {
+    "title": "A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems",
+    "url": "https://homa-alem.github.io/papers/MedicalCPS_2015.pdf",
+    "resolvedAt": "2026-09-06T16:13:47.194370+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:VL0QpB8kHFEC": {
+    "title": "Simulation-based training for safety incidents: lessons from analysis of adverse events in robotic surgical systems",
+    "url": "https://homa-alem.github.io/papers/ACS_Abstract.pdf",
+    "resolvedAt": "2026-09-06T16:13:47.194373+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:XiVPGOgt02cC": {
+    "title": "Safety implications of robotic surgery: A study of 13 years of FDA data on da Vinci surgical systems",
+    "url": "https://homa-alem.github.io/papers/UILU-ENG-13-2208.pdf",
+    "resolvedAt": "2026-09-06T16:13:47.194379+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:qjMakFHDy7sC": {
+    "title": "Functional Testing Approaches for \u201cBIFST-able\u201d tlm_fifo",
+    "url": "https://doi.org/10.1109/hldvt.2008.4695882",
+    "resolvedAt": "2026-09-06T16:13:47.194385+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:WF5omc3nYNoC": {
+    "title": "Plug & Test at system level via testable TLM primitives",
+    "url": "https://doi.org/10.1109/test.2008.4700610",
+    "resolvedAt": "2026-09-06T16:13:47.194388+00:00",
+    "source": "manual"
+  },
+  "sXpmLxUAAAAJ:_FxGoFyzp5QC": {
+    "title": "High-level Analysis for Reconfiguration of a Fault Tolerant Mesh-based NoC Architecture Using Transaction Level Modeling",
+    "url": "https://homa-alem.github.io/papers/Alemzadeh_EWDTS_2007.pdf",
+    "resolvedAt": "2026-09-06T16:13:47.194392+00:00",
+    "source": "manual"
   }
 }

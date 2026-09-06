@@ -230,9 +230,10 @@ function applyOverrides(items) {
     );
     if (!o) return item;
     unused.delete(o.titleStartsWith);
-    const { titleStartsWith, ...fields } = o;
+    const { titleStartsWith, drop, ...fields } = o;
+    if (drop) return null;
     return { ...item, ...fields };
-  });
+  }).filter(Boolean);
   if (unused.size > 0) {
     console.warn(
       `[fetch-scholar] ${unused.size} override(s) matched no Scholar entry:`,
