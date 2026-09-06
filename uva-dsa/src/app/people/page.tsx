@@ -60,10 +60,10 @@ const undergraduateStudents = [
     website: 'https://www.linkedin.com/in/farjan-ahmed1461/',
   },
   {
-    name: 'James Beck',
+    name: 'Nathan Kim',
     role: 'Undergraduate Student',
     image: '/images/people/placeholder-headshot.svg',
-    website: '',
+    website: 'https://www.linkedin.com/in/nathan-kimm/',
   },
 ];
 
