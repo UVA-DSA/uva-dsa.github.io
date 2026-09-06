@@ -33,8 +33,8 @@ type Category =
 const CATEGORY_ORDER: Category[] = [
   "Journals",
   "Conferences",
-  "Pre-prints",
   "Workshops",
+  "Pre-prints",
   "Dissertations",
 ];
 
