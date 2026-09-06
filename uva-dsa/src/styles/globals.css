@@ -635,38 +635,62 @@ section.hero .heroTextWelcome {
   color: #666;
   margin: 8px 0 16px 0;
 }
-/* Jump-link subheader for the publication sections */
+/* Section navigation for the publications page: a left sidebar on wide
+   screens, a horizontal bar above the list on narrow ones. */
+.publicationsLayout {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+.publicationsContent {
+  flex: 1 1 auto;
+  min-width: 0;
+}
 .publicationsSubnav {
+  flex: 0 0 150px;
   position: sticky;
-  top: 0;
-  z-index: 5;
-  background-color: #ffffff;
-  border-bottom: 1px solid #e6e8eb;
-  margin: 0 0 8px;
+  top: 16px;
+  padding-top: 8px;
 }
 .publicationsSubnav ul {
   list-style: none;
   margin: 0;
-  padding: 10px 0;
+  padding: 0;
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px 24px;
+  flex-direction: column;
+  gap: 10px;
 }
 .publicationsSubnav a {
   text-decoration: none;
   font-weight: 700;
   font-size: 1rem;
   color: #232d4b;
-  padding: 4px 0;
+  padding: 2px 0;
   border-bottom: 2px solid transparent;
 }
 .publicationsSubnav a:hover {
   color: #0070f3;
   border-bottom-color: #0070f3;
 }
+@media (max-width: 760px) {
+  .publicationsLayout {
+    display: block;
+  }
+  .publicationsSubnav {
+    position: static;
+    padding: 0 0 8px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #e6e8eb;
+  }
+  .publicationsSubnav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+  }
+}
 .publicationCategory {
   margin-top: 28px;
-  scroll-margin-top: 64px; /* keep the section title clear of the sticky subnav */
+  scroll-margin-top: 16px;
 }
 .publicationCategory:first-of-type {
   margin-top: 8px;

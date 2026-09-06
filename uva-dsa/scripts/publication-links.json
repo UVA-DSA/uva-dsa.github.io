@@ -1,0 +1,247 @@
+{
+  "sXpmLxUAAAAJ:HeT0ZceujKMC": {
+    "title": "EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents",
+    "url": "https://aclanthology.org/2026.findings-acl.1751/",
+    "resolvedAt": "2026-09-06T15:54:28.673Z"
+  },
+  "sXpmLxUAAAAJ:yqoGN6RLRZoC": {
+    "title": "SAMD: A Tool for Identifying False Data Injection Scenarios in AI/ML-enabled Medical Devices",
+    "url": "https://arxiv.org/abs/2605.29210",
+    "resolvedAt": "2026-09-06T15:54:34.309Z"
+  },
+  "sXpmLxUAAAAJ:r_AWSJRzSzQC": {
+    "title": "Digital Guardians: The Past and The Future of Cyber-Physical Resilience",
+    "url": "https://arxiv.org/abs/2604.14360",
+    "resolvedAt": "2026-09-06T15:54:39.964Z"
+  },
+  "sXpmLxUAAAAJ:3htObqc8RwsC": {
+    "title": "Expert-guided prompting and retrieval-augmented generation for emergency medical service question answering",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40337",
+    "resolvedAt": "2026-09-06T15:54:45.608Z"
+  },
+  "sXpmLxUAAAAJ:OcBU2YAGkTUC": {
+    "title": "Egoems: A high-fidelity multimodal egocentric dataset for cognitive assistance in emergency medical services",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/41293",
+    "resolvedAt": "2026-09-06T15:54:51.238Z"
+  },
+  "sXpmLxUAAAAJ:DJbcl8HfkQkC": {
+    "title": "Systems-Theoretic and Data-Driven Security Analysis in ML-Enabled Medical Devices",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-13800-2_11",
+    "resolvedAt": "2026-09-06T15:54:56.878Z"
+  },
+  "sXpmLxUAAAAJ:OR75R8vi5nAC": {
+    "title": "Activity-Aware Recovery from Network Communication Loss in Teleoperated Robotic Surgery",
+    "url": "https://www.techrxiv.org/doi/abs/10.36227/techrxiv.176287995.54551665/v1",
+    "resolvedAt": "2026-09-06T15:55:02.515Z"
+  },
+  "sXpmLxUAAAAJ:_axFR9aDTf0C": {
+    "title": "Knowsafe: Combined knowledge and data driven hazard mitigation in artificial pancreas systems",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11060914/",
+    "resolvedAt": "2026-09-06T15:55:08.142Z"
+  },
+  "sXpmLxUAAAAJ:QYdC8u9Cj1oC": {
+    "title": "Safety interventions against adversarial patches in an open-source driver assistance system",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11068812/",
+    "resolvedAt": "2026-09-06T15:55:13.784Z"
+  },
+  "sXpmLxUAAAAJ:Ri6SYOTghG4C": {
+    "title": "Runtime Stealthy Perception Attacks against DNN-based Adaptive Cruise Control Systems",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3708821.3710832",
+    "resolvedAt": "2026-09-06T15:55:19.416Z"
+  },
+  "sXpmLxUAAAAJ:IUKN3-7HHlwC": {
+    "title": "SAM: Foreseeing Inference-Time False Data Injection Attacks on ML-enabled Medical Devices",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3689942.3694745",
+    "resolvedAt": "2026-09-06T15:55:25.044Z"
+  },
+  "sXpmLxUAAAAJ:dBIO0h50nwkC": {
+    "title": "Strategic Resilience Evaluation of Neural Networks Within Autonomous Vehicle Software",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-68606-1_3",
+    "resolvedAt": "2026-09-06T15:55:30.659Z"
+  },
+  "sXpmLxUAAAAJ:9c2xU6iGI7YC": {
+    "title": "Camera-independent single image depth estimation from defocus blur",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10484050/",
+    "resolvedAt": "2026-09-06T15:55:36.287Z"
+  },
+  "sXpmLxUAAAAJ:GtLg2Ama23sC": {
+    "title": "Multimodal Transformers for Real-Time Surgical Activity Prediction",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10611048/",
+    "resolvedAt": "2026-09-06T15:55:41.909Z"
+  },
+  "sXpmLxUAAAAJ:9pM33mqn1YgC": {
+    "title": "Real-Time Multimodal Cognitive Assistant for Emergency Medical Services",
+    "url": "https://arxiv.org/abs/2403.06734",
+    "resolvedAt": "2026-09-06T15:55:47.544Z"
+  },
+  "sXpmLxUAAAAJ:PVjk1bu6vJQC": {
+    "title": "DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction",
+    "url": "https://aclanthology.org/2024.emnlp-main.712/",
+    "resolvedAt": "2026-09-06T15:55:53.219Z"
+  },
+  "sXpmLxUAAAAJ:-FonjvnnhkoC": {
+    "title": "COMPASS: a formal framework and aggregate dataset for generalized surgical procedure modeling",
+    "url": "https://link.springer.com/article/10.1007/s11548-023-02922-1",
+    "resolvedAt": "2026-09-06T15:55:58.874Z"
+  },
+  "sXpmLxUAAAAJ:86PQX7AUzd4C": {
+    "title": "Towards Interpretable Motion-Level Skill Assessment in Robotic Surgery",
+    "url": "https://arxiv.org/abs/2311.05838",
+    "resolvedAt": "2026-09-06T15:56:04.716Z"
+  },
+  "sXpmLxUAAAAJ:ClCfbGk0d_YC": {
+    "title": "Robotic scene segmentation with memory network for runtime surgical context inference",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10342013/",
+    "resolvedAt": "2026-09-06T15:56:10.475Z"
+  },
+  "sXpmLxUAAAAJ:q3CdL3IzO_QC": {
+    "title": "Evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10173628/",
+    "resolvedAt": "2026-09-06T15:56:16.117Z"
+  },
+  "sXpmLxUAAAAJ:foquWX3nUaYC": {
+    "title": "Ems-bert: a pre-trained language representation model for the emergency medical services (ems) domain",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3580252.3586978",
+    "resolvedAt": "2026-09-06T15:56:21.756Z"
+  },
+  "sXpmLxUAAAAJ:HbR8gkJAVGIC": {
+    "title": "emsreact: A real-time interactive cognitive assistant for cardiac arrest training in emergency medical services",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10257201/",
+    "resolvedAt": "2026-09-06T15:56:27.408Z"
+  },
+  "sXpmLxUAAAAJ:xtoqd-5pKcoC": {
+    "title": "Senseems-towards a hand activity recognition and monitoring system for emergency medical services",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3583120.3589823",
+    "resolvedAt": "2026-09-06T15:56:33.036Z"
+  },
+  "sXpmLxUAAAAJ:PoWvk5oyLR8C": {
+    "title": "Towards Surgical Context Inference and Translation to Gestures",
+    "url": "https://ieeexplore.ieee.org/abstract/document/10160383/",
+    "resolvedAt": "2026-09-06T15:56:38.666Z"
+  },
+  "sXpmLxUAAAAJ:Dip1O2bNi0gC": {
+    "title": "Short: Basal-Adjust: Trend Prediction Alerts and Adjusted Basal Rates for Hyperglycemia Prevention",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3580252.3586987",
+    "resolvedAt": "2026-09-06T15:56:44.307Z"
+  },
+  "sXpmLxUAAAAJ:bz8QjSJIRt4C": {
+    "title": "Hybrid knowledge and data driven synthesis of runtime monitors for cyber-physical systems",
+    "url": "https://ieeexplore.ieee.org/iel7/8858/4358699/10038568.pdf",
+    "resolvedAt": "2026-09-06T15:56:49.938Z"
+  },
+  "sXpmLxUAAAAJ:e_rmSamDkqQC": {
+    "title": "Towards Developing Safety Assurance Cases for Learning-Enabled Medical Cyber-Physical Systems",
+    "url": "https://arxiv.org/abs/2211.15413",
+    "resolvedAt": "2026-09-06T15:56:55.611Z"
+  },
+  "sXpmLxUAAAAJ:WZBGuue-350C": {
+    "title": "Design and validation of an open-source closed-loop testbed for artificial pancreas systems",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9983652/",
+    "resolvedAt": "2026-09-06T15:57:01.263Z"
+  },
+  "sXpmLxUAAAAJ:VaXvl8Fpj5cC": {
+    "title": "Robustness Testing of Data and Knowledge Driven Anomaly Detection in Cyber-Physical Systems",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9833836/",
+    "resolvedAt": "2026-09-06T15:57:06.926Z"
+  },
+  "sXpmLxUAAAAJ:lmc2jWPfTJgC": {
+    "title": "Strategic safety-critical attacks against an advanced driver assistance system",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9833622/",
+    "resolvedAt": "2026-09-06T15:57:12.560Z"
+  },
+  "sXpmLxUAAAAJ:MLfJN-KU85MC": {
+    "title": "Runtime Detection of Executional Errors in Robot-Assisted Surgery",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9812034/",
+    "resolvedAt": "2026-09-06T15:57:18.211Z"
+  },
+  "sXpmLxUAAAAJ:g3aElNc5_aQC": {
+    "title": "Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2375",
+    "resolvedAt": "2026-09-06T15:57:23.848Z"
+  },
+  "sXpmLxUAAAAJ:TIZ-Mc8IlK0C": {
+    "title": "Information Extraction from Patient Care Reports for Intelligent Emergency Medical Services",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9697916/",
+    "resolvedAt": "2026-09-06T15:57:29.487Z"
+  },
+  "sXpmLxUAAAAJ:gsN89kCJA0AC": {
+    "title": "Challenges and Directions for Ambient Intelligence: A Cyber Physical Systems Perspective",
+    "url": "https://ieeexplore.ieee.org/iel7/9750278/9750279/09750344.pdf",
+    "resolvedAt": "2026-09-06T15:57:35.149Z"
+  },
+  "sXpmLxUAAAAJ:L7CI7m0gUJcC": {
+    "title": "Data-driven Design of Context-aware Monitors for Hazard Prediction in Artificial Pancreas Systems",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9505057/",
+    "resolvedAt": "2026-09-06T15:57:40.792Z"
+  },
+  "sXpmLxUAAAAJ:ILKRHgRFtOwC": {
+    "title": "On parallel real-time security improvement using mixed-integer programming",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9402746/",
+    "resolvedAt": "2026-09-06T15:57:46.443Z"
+  },
+  "sXpmLxUAAAAJ:4MWp96NkSFoC": {
+    "title": "A review of cognitive assistants for healthcare: Trends, prospects, and future directions",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3419368",
+    "resolvedAt": "2026-09-06T15:57:52.085Z"
+  },
+  "sXpmLxUAAAAJ:EYYDruWGBe4C": {
+    "title": "A Graduate Curriculum in Cyber-Physical Systems",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9286727/",
+    "resolvedAt": "2026-09-06T15:57:57.718Z"
+  },
+  "sXpmLxUAAAAJ:ML0RJ9NH7IQC": {
+    "title": "A reactive autonomous camera system for the RAVEN II surgical robot",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9312934/",
+    "resolvedAt": "2026-09-06T15:58:03.346Z"
+  },
+  "sXpmLxUAAAAJ:p__nRnzSRKYC": {
+    "title": "IMACS - an interactive cognitive assistant module for cardiac arrest cases in emergency medical service: demo abstract",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3384419.3430451",
+    "resolvedAt": "2026-09-06T15:58:08.978Z"
+  },
+  "sXpmLxUAAAAJ:URolC5Kub84C": {
+    "title": "Real-Time Context-aware Detection of Unsafe Events in Robot-Assisted Surgery",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9153443/",
+    "resolvedAt": "2026-09-06T15:58:14.609Z"
+  },
+  "sXpmLxUAAAAJ:EkHepimYqZsC": {
+    "title": "Emscontext: EMS protocol-driven concept extraction for cognitive assistance in emergency response",
+    "url": "https://aaai.org/ojs/index.php/AAAI/article/view/7048",
+    "resolvedAt": "2026-09-06T15:58:20.255Z"
+  },
+  "sXpmLxUAAAAJ:ipzZ9siozwsC": {
+    "title": "GRACE: generating summary reports automatically for cognitive assistance in emergency response",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/7049",
+    "resolvedAt": "2026-09-06T15:58:25.944Z"
+  },
+  "sXpmLxUAAAAJ:uWiczbcajpAC": {
+    "title": "Challenges and opportunities in the detection of safety-critical cyberphysical attacks",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9034240/",
+    "resolvedAt": "2026-09-06T15:58:31.606Z"
+  },
+  "sXpmLxUAAAAJ:0KyAp5RtaNEC": {
+    "title": "A Behavior Tree Cognitive Assistant System for Emergency Medical Services",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8968233/",
+    "resolvedAt": "2026-09-06T15:58:37.265Z"
+  },
+  "sXpmLxUAAAAJ:yB1At4FlUx8C": {
+    "title": "Analysis of Cyber-Security Vulnerabilities of Interconnected Medical Devices",
+    "url": "https://par.nsf.gov/biblio/10191128",
+    "resolvedAt": "2026-09-06T15:58:42.943Z"
+  },
+  "sXpmLxUAAAAJ:j8SEvjWlNXcC": {
+    "title": "Context-aware Monitoring in Robotic Surgery",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8710192/",
+    "resolvedAt": "2026-09-06T15:58:48.569Z"
+  },
+  "sXpmLxUAAAAJ:_Re3VWB3Y0AC": {
+    "title": "Experimental Resilience Assessment of An Open-Source Driving Agent",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8639042/",
+    "resolvedAt": "2026-09-06T15:58:54.190Z"
+  },
+  "sXpmLxUAAAAJ:kzcrU_BdoSEC": {
+    "title": "Towards a cognitive assistant system for emergency response",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8443754/",
+    "resolvedAt": "2026-09-06T15:58:59.832Z"
+  }
+}

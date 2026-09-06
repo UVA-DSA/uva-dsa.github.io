@@ -179,6 +179,33 @@ function parsePublications(html, maxItems = 100) {
 }
 
 /**
+ * Replace Scholar "view_citation" links with real paper URLs resolved by
+ * scripts/resolve-links.js and cached in scripts/publication-links.json.
+ */
+function applyResolvedLinks(items) {
+  const cachePath = path.join(__dirname, "publication-links.json");
+  if (!fs.existsSync(cachePath)) return items;
+  let cache = {};
+  try {
+    cache = JSON.parse(fs.readFileSync(cachePath, "utf8"));
+  } catch (e) {
+    console.warn("[fetch-scholar] Could not read publication-links.json:", e.message);
+    return items;
+  }
+  let replaced = 0;
+  const out = items.map((item) => {
+    const m = /citation_for_view=([^&]+)/.exec(item.url || "");
+    const id = m ? decodeURIComponent(m[1]) : null;
+    const hit = id && cache[id] && cache[id].url;
+    if (!hit) return item;
+    replaced++;
+    return { ...item, url: hit };
+  });
+  console.log(`[fetch-scholar] Replaced ${replaced} Scholar links with resolved URLs.`);
+  return out;
+}
+
+/**
  * Apply manual corrections from scripts/publication-overrides.json.
  * Google Scholar keeps listing some papers under their arXiv/TechRxiv entry
  * long after they are published; this lets us fix venue/category/url/year for
@@ -236,7 +263,7 @@ async function main() {
 
   try {
     const html = await fetchScholarHTML(userId);
-    const items = applyOverrides(parsePublications(html));
+    const items = applyOverrides(applyResolvedLinks(parsePublications(html)));
 
 	// group by year
 	const byYear = {};
@@ -264,7 +291,7 @@ async function main() {
       console.warn(
         "[fetch-scholar] Keeping previous publications.json due to empty parse."
       );
-      result.items = applyOverrides(prev.items);
+      result.items = applyOverrides(applyResolvedLinks(prev.items));
     }
   }
 

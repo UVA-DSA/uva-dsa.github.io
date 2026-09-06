@@ -136,15 +136,23 @@ export default function Publications() {
               category: "Dissertations" as Category,
             };
           });
+          const isHomaOwn = (p: PublicationItem) =>
+            /^h\.?\s*alemzadeh$/i.test((p.authors || "").trim());
           grouped["Dissertations"] = [
             ...(grouped["Dissertations"] || []),
             ...labDissertations,
-          ];
+          ].sort((a, b) => {
+            // Homa's own dissertation goes last; the rest newest first.
+            const ha = isHomaOwn(a) ? 1 : 0;
+            const hb = isHomaOwn(b) ? 1 : 0;
+            if (ha !== hb) return ha - hb;
+            return Number(b.year || 0) - Number(a.year || 0);
+          });
           const visible = CATEGORY_ORDER.filter(
             (c) => grouped[c] && grouped[c].length > 0
           );
           return (
-            <>
+            <div className="publicationsLayout">
               <nav className="publicationsSubnav" aria-label="Publication sections">
                 <ul>
                   {visible.map((c) => (
@@ -154,6 +162,7 @@ export default function Publications() {
                   ))}
                 </ul>
               </nav>
+              <div className="publicationsContent">
               {visible.map((category) => (
             <div
               key={category}
@@ -183,7 +192,7 @@ export default function Publications() {
                           <span className="venue">{p.venue}</span>
                         </>
                       )}
-                      {p.year && (
+                      {p.year && !(p.venue || "").includes(p.year) && (
                         <>
                           <span className="sep"> • </span>
                           <span className="year">{p.year}</span>
@@ -195,7 +204,8 @@ export default function Publications() {
               </ol>
             </div>
               ))}
-            </>
+              </div>
+            </div>
           );
         })()
       ) : (
