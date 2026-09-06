@@ -19,7 +19,8 @@ export const dissertations: Dissertation[] = [
     author: "Zongyu (Zoey) Li",
     degree: "Ph.D.",
     year: "2025",
-    title: "",
+    title:
+      "Runtime Activity Aware Operational Error Detection in Robotic-Assisted Surgery",
     url: "https://search.lib.virginia.edu/sources/uva_library/items/br86b5297",
   },
   {
